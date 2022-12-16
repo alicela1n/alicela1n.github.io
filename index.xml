@@ -1,21 +1,547 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Alices Digital Notebook</title><link>https://alicela1n.github.io/</link><description>Recent content on Alices Digital Notebook</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 03 Jan 2022 15:55:34 -0800</lastBuildDate><atom:link href="https://alicela1n.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>The Paradox Of Backwards Compatibility</title><link>https://alicela1n.github.io/post/2022-01-03-the-paradox-of-backwards-compatibility/</link><pubDate>Mon, 03 Jan 2022 15:55:34 -0800</pubDate><guid>https://alicela1n.github.io/post/2022-01-03-the-paradox-of-backwards-compatibility/</guid><description>Backwards compatibility is a mess Backwards compatibility is a mess. There&amp;rsquo;s not any other way to put it. You can either have an operating system that&amp;rsquo;s backwards compatible to a point where it&amp;rsquo;s inflexible in trying to make any changes because those changes could break compatibility with older software. You can have an operating system that is backwards compatible to a certain point, but after that point older software will no longer be supported, or you can have an operating system that isn&amp;rsquo;t backwards compatible at all, in which all software has to be updated to support the changes made to each release of the operating system.</description></item><item><title>Why I don't recommend Manjaro Linux</title><link>https://alicela1n.github.io/post/2021-10-18-manjarno/</link><pubDate>Mon, 18 Oct 2021 19:16:50 -0800</pubDate><guid>https://alicela1n.github.io/post/2021-10-18-manjarno/</guid><description>Introduction So on Twitter as a response to a tweet by Linus Tech Tips showing Linus&amp;rsquo;s frustration with Linux, I quoted the tweet saying &amp;ldquo;This is why you don&amp;rsquo;t use Manjaro&amp;rdquo;. That got many responses, a lot from Manjaro users telling me how great Manjaro is. Now I didn&amp;rsquo;t expect that tweet to get as much attention as it did, or cause controversy. I respect people&amp;rsquo;s distro choices, and I think Linux is all about freedom of choice, and people should have the choice to use whatever distro they want to use.</description></item><item><title>Installing Gentoo on the Pentium III</title><link>https://alicela1n.github.io/post/2021-09-18-installing-gentoo-on-the-pentium-iii/</link><pubDate>Sat, 18 Sep 2021 19:16:50 -0800</pubDate><guid>https://alicela1n.github.io/post/2021-09-18-installing-gentoo-on-the-pentium-iii/</guid><description>This blog post targets EXPERIENCED Gentoo users only, I&amp;rsquo;m not helping you, and you are on your own! The future is uncertain, since this setup involves using old versions of some packages, and patches for others, it&amp;rsquo;s uncertain whether or not it&amp;rsquo;ll work tomorrow, or whether or not you&amp;rsquo;ll be able to update this install in the future, so use at your own risk!
-This post is not 100% complete, but if I don&amp;rsquo;t upload it now I won&amp;rsquo;t ever.</description></item><item><title>Why I use Arch Linux</title><link>https://alicela1n.github.io/post/2021-09-17-why-i-use-arch-linux/</link><pubDate>Fri, 17 Sep 2021 17:16:50 -0800</pubDate><guid>https://alicela1n.github.io/post/2021-09-17-why-i-use-arch-linux/</guid><description>Introduction So as you know, I use Arch Linux with the KDE Plasma desktop environment. I&amp;rsquo;ve tried a few other distros, like Gentoo, Fedora, Debian and I&amp;rsquo;ve always eventually come back to Arch Linux. I decided to write this blog post to get into some of the reasons why that is.
-Rolling Release This is a huge thing for me, I love rolling release distros, and I love having access to the latest software.</description></item><item><title>Learning to Love Vim</title><link>https://alicela1n.github.io/post/2021-09-12-learning-to-love-vim/</link><pubDate>Sun, 12 Sep 2021 17:45:50 -0800</pubDate><guid>https://alicela1n.github.io/post/2021-09-12-learning-to-love-vim/</guid><description>Introduction When I first learned about Vim I wasn&amp;rsquo;t very enthusiastic about it, I wasn&amp;rsquo;t very open minded and didn&amp;rsquo;t want to use it because I didn&amp;rsquo;t know how to use it. However, things have changed, and I&amp;rsquo;m now using vim as my primary editor! I used to use Text Wrangler (back when I used a MacBook), then switched over to Visual Studio Code when I switched over to using Linux, I eventually settled on using Sublime Text, and still do use it for larger projects.</description></item><item><title>Installing Gentoo</title><link>https://alicela1n.github.io/post/2021-08-26-installing-gentoo/</link><pubDate>Thu, 26 Aug 2021 23:45:50 -0800</pubDate><guid>https://alicela1n.github.io/post/2021-08-26-installing-gentoo/</guid><description>Introduction Gentoo is a source based Linux distribution which is very flexible and can be customized to fit the user&amp;rsquo;s needs. A bit ago I started using Gentoo Linux daily. EDIT: Back to using Arch Linux. Here&amp;rsquo;s the install procedure, because a lot of people seem to think it&amp;rsquo;s difficult.
-Creating a live USB Obviously before we can begin, we need to boot the computer into some kind of environment. I opt for systemrescuecd.</description></item><item><title>Using Wayland daily on KDE Plasma, My Experience</title><link>https://alicela1n.github.io/post/2021-07-14-using-wayland-daily-on-plasma/</link><pubDate>Wed, 14 Jul 2021 09:30:50 -0800</pubDate><guid>https://alicela1n.github.io/post/2021-07-14-using-wayland-daily-on-plasma/</guid><description>Introduction Ever since KDE Plasma 5.21 it&amp;rsquo;s been fully usable under Wayland. To the point where I never need to boot back into Xorg anymore! KDE Plasma is my favorite desktop environment, atm. Plasma for a long time was the one thing holding me back from using Wayland. It wasn&amp;rsquo;t that stable, and the experience on Xorg was overall far less buggy. Xorg is slowly going away, Wayland is the future.</description></item><item><title>Case Study: Updating old install of Arch Linux</title><link>https://alicela1n.github.io/post/2021-07-05-updating-old-archlinux-install/</link><pubDate>Mon, 05 Jul 2021 15:12:50 -0800</pubDate><guid>https://alicela1n.github.io/post/2021-07-05-updating-old-archlinux-install/</guid><description>Introduction So there&amp;rsquo;s this myth that if Arch Linux gets too old then you can&amp;rsquo;t update the install anymore. I don&amp;rsquo;t exactly know what classifies as &amp;ldquo;too old&amp;rdquo; since I&amp;rsquo;ve managed to update installs up to 2 years out of date. However, I decided to go a step further and update an install that&amp;rsquo;s 5 years out of date.
-Problems The best way to avoid running into serious problems is to read the Arch Linux news letter as it typically tells you how to fix any problems you may run into.</description></item><item><title>How to switch from Windows to Linux</title><link>https://alicela1n.github.io/post/2021-06-15-linux-guide-for-windows-users/</link><pubDate>Tue, 15 Jun 2021 15:12:50 -0800</pubDate><guid>https://alicela1n.github.io/post/2021-06-15-linux-guide-for-windows-users/</guid><description>Warning Before getting into this it is assumed all your important data is backed up somewhere, whether that&amp;rsquo;s a cloud service, or external device, this WILL wipe all your data, and I&amp;rsquo;m not responsible for anything that goes wrong!
-Introduction Microsoft announced their new Windows 11, (correction: the new Windows 11 was leaked, not officially announced) I hate it. This inspired me to write a blog post to help Windows users switch over from Windows 10 to Linux, I&amp;rsquo;m gonna be focusing on Kubuntu.</description></item><item><title>Using Kubuntu on my old MacBook Pro</title><link>https://alicela1n.github.io/post/2021-04-11-kubuntu-on-old-macbook-pro/</link><pubDate>Sun, 11 Apr 2021 11:23:50 -0800</pubDate><guid>https://alicela1n.github.io/post/2021-04-11-kubuntu-on-old-macbook-pro/</guid><description>I&amp;rsquo;ve used a 2010 MacBook Pro as my main laptop for a couple years, it&amp;rsquo;s old, slow, and the last version of macOS to support it is 10.13.6. I replaced my MacBook a little over a year ago, so it hasn&amp;rsquo;t been doing much lately. Introduction So macOS 10.13, it&amp;rsquo;s ancient, at this point a lot of applications are dropping support, and it&amp;rsquo;s happening really fast too. I still use my 2010 MacBook Pro as my secondary laptop because it&amp;rsquo;s still quite useful as a little 13&amp;quot; laptop.</description></item><item><title>Installing Gentoo on Raspberry Pi 4</title><link>https://alicela1n.github.io/post/2021-04-06-gentoo-on-pi-4-notes/</link><pubDate>Tue, 06 Apr 2021 11:12:50 -0800</pubDate><guid>https://alicela1n.github.io/post/2021-04-06-gentoo-on-pi-4-notes/</guid><description>Introduction If you remember Sakaki&amp;rsquo;s Gentoo images for the Raspberry Pi 4, they were great. It was one of the best performing distros for the Raspberry Pi 4. Since Sakaki no longer updates them they are effectively dead.
-Gentoo is one of my favorite Linux distros because of it&amp;rsquo;s insane level of customization and control, over just about everything. In the make.conf you have a lot of control over your installation.</description></item><item><title>Linux troubles again...</title><link>https://alicela1n.github.io/post/2021-03-22-linux-troubles-again/</link><pubDate>Sun, 21 Mar 2021 20:59:50 -0800</pubDate><guid>https://alicela1n.github.io/post/2021-03-22-linux-troubles-again/</guid><description>Linux troubles again, this time it&amp;rsquo;s my audio that&amp;rsquo;s not working. I didn&amp;rsquo;t even realize it wasn&amp;rsquo;t working for a while. Then it randomly hit me, no audio. Obviously, this is not enough to convince me to switch to Windows, as I&amp;rsquo;m not a fan of that operating system. However it is really annoying so I&amp;rsquo;m gonna have to try and fix it.
-Diagnosing the problem Let&amp;rsquo;s see what shows up in /proc/asound/card0</description></item><item><title>Tegra 3 unbricking notes</title><link>https://alicela1n.github.io/post/2021-02-05-tegra-3-unbrick-notes/</link><pubDate>Fri, 05 Feb 2021 15:09:34 -0800</pubDate><guid>https://alicela1n.github.io/post/2021-02-05-tegra-3-unbrick-notes/</guid><description>This is just a quick little post to keep notes for how I unbricked my ASUS MemoPad ME301T.
-Tegra 3 unbricking Using tegra 3 unbrick I managed to unbrick the MemoPad.
-Enter APX mode Different depending on device.
-Pwning the bootrom # ./fusee-launcher/fusee-launcher.py ./payload/uart_payload_n7.bin -P 7330 Is your BCT Good? If you don&amp;rsquo;t have a Nexus 7 or Ouya you&amp;rsquo;ll need a BCT. You can dump it with:
-# ./utils/nvflash_v1.13.87205 --getbct --bct BCT_READBACK_N7.</description></item><item><title>I decided to install Gentoo</title><link>https://alicela1n.github.io/post/2020-12-18-when-i-decide-to-install-gentoo/</link><pubDate>Sun, 20 Dec 2020 12:15:00 -0800</pubDate><guid>https://alicela1n.github.io/post/2020-12-18-when-i-decide-to-install-gentoo/</guid><description>I rarely if ever update this blog, maybe once every few months. Anyways I might one day find the motivation to get back into blogging, who knows these days. Anyways I decided to write this post because I&amp;rsquo;m using Gentoo now, a source based Linux distro.
-Why Gentoo? I was using Arch for a while, then started looking into Gentoo. I liked the way it&amp;rsquo;s package management works, being source based.</description></item><item><title>Make your own dotfiles repo today</title><link>https://alicela1n.github.io/post/2020-10-31-make-your-own-dotfiles-repo/</link><pubDate>Sat, 31 Oct 2020 12:15:00 -0800</pubDate><guid>https://alicela1n.github.io/post/2020-10-31-make-your-own-dotfiles-repo/</guid><description>Introduction Dotfiles, we all love them. If you&amp;rsquo;re anything like me and use the command line a lot you surely use dotfiles. Things like your vimrc, zshrc, tmux config, etc are all dotfiles.
-So why should you make a repo with your dotfiles? A github repo including all your dotfiles makes it easier to deploy them later, also makes it possible for other people to use them. I get asked occasionally, &amp;ldquo;how did you make your setup look like that?</description></item><item><title>Working audio in Mac OS X 10.5 (or 10.4) PPC in QEMU</title><link>https://alicela1n.github.io/post/2020-08-23-osx-10.5-ppc-in-qemu-with-working-audio/</link><pubDate>Sun, 23 Aug 2020 11:12:30 -0800</pubDate><guid>https://alicela1n.github.io/post/2020-08-23-osx-10.5-ppc-in-qemu-with-working-audio/</guid><description>Introduction I&amp;rsquo;ve been interested in old operating systems in a while, especially Apple ones. I love QEMU because it lets me emulate different (and a lot of obscure) operating systems and architectures that I otherwise would not have access to. This includes PPC Mac OS X, however one problem is that audio has never worked for me, since QEMU doesn&amp;rsquo;t emulate a supported sound card.
-Passing through an audio device? Inconvenient, and I need to find one that is supported first.</description></item><item><title>Need to use a different Linux distro? Just systemd-nspawn it!</title><link>https://alicela1n.github.io/post/2020-08-22-just-systemd-nspawn-it/</link><pubDate>Sat, 22 Aug 2020 08:00:34 -0800</pubDate><guid>https://alicela1n.github.io/post/2020-08-22-just-systemd-nspawn-it/</guid><description>I&amp;rsquo;ve been using Linux on my main computer for over a year and a half now, distro hopping because I always somehow find something wrong with the distro I&amp;rsquo;m using. Whether it be that I need to use a different version of the GCC compiler than the one in the distro&amp;rsquo;s repos or something else. I&amp;rsquo;ve been trying Ubuntu, Debian, Arch, Gentoo, and some other ones like Fedora, Manjaro, openSUSE, Void Linux but none of them seemed to solve the problems I was having where I always need access to a package not in that distro&amp;rsquo;s repositories, Arch is the best right for me right now because it has the AUR (Arch User Repository) which has most stuff but not everything.</description></item><item><title>Dumping SHSH and restoring 32bit iOS device</title><link>https://alicela1n.github.io/post/2020-06-26-dumping-shsh-and-restoring-iphone-without-losing-ios-version/</link><pubDate>Fri, 26 Jun 2020 23:48:34 -0800</pubDate><guid>https://alicela1n.github.io/post/2020-06-26-dumping-shsh-and-restoring-iphone-without-losing-ios-version/</guid><description>!This was one of my quick written guides so if you have any improvements feel free to pull request them in!
-Introduction Sometimes you might be in a situation where your 32bit iPhone is bootlooping, passcode locked, or you are unable to jailbreak it. You think all hope is lost and you must restore, updating to the latest supported iOS version. That&amp;rsquo;s not true. There&amp;rsquo;s a way to restore the iPhone without updating to the latest version of iOS, then you get to keep the currently installed iOS version and not have to worry about it ever again as long as you keep your SHSH.</description></item><item><title>Operating systems to use on old computers in 2020</title><link>https://alicela1n.github.io/post/2020-06-02-using-old-computers-in-2020/</link><pubDate>Tue, 02 Jun 2020 16:15:34 -0800</pubDate><guid>https://alicela1n.github.io/post/2020-06-02-using-old-computers-in-2020/</guid><description>Introduction Here&amp;rsquo;s a hypothetical situation, imagine you are using your computer and suddenly it stops powering on. No apparent reason, it just simply doesn&amp;rsquo;t work anymore. However you do have a Pentium 4 computer sitting in your closet collecting dust. So being that it&amp;rsquo;s your only functional computer, you plug it in and power it up. It runs an operating system from many years ago, Windows XP or an old Linux distro probably.</description></item><item><title>Taking a look at ReactOS, a real open source Windows XP replacement?</title><link>https://alicela1n.github.io/post/2020-05-14-taking-a-look-at-reactos/</link><pubDate>Thu, 14 May 2020 11:16:30 -0800</pubDate><guid>https://alicela1n.github.io/post/2020-05-14-taking-a-look-at-reactos/</guid><description>Introduction I got bored and decided to check out ReactOS, an open source alternative to Windows. It is the effort of a team who did some clean room reverse engineering of Windows and wrote their code from scratch.
-Impressions ReactOS is quite good for what it is, it is quite unstable and has poor hardware support but that is to be expected. I got it to boot on a couple computers laying around the house but I couldn&amp;rsquo;t get the drivers to install.</description></item><item><title>Running Void Linux in Chroot on Android</title><link>https://alicela1n.github.io/post/2020-05-06-running-void-linux-in-chroot-on-android/</link><pubDate>Wed, 06 May 2020 12:16:30 -0800</pubDate><guid>https://alicela1n.github.io/post/2020-05-06-running-void-linux-in-chroot-on-android/</guid><description>Introduction So I decided to mess around with my Fire 7 tablet and see if I could get a chroot environment of Linux. I used Void because it is quite lightweight and is perfect for testing! Tutorial So first off this is what you will need:
-A rooted Android device Linux A reasonable amount of free space (at least 8GB) Void Linux Root FS Now we can get started!
-Download these apps and install them to the device using adb</description></item><item><title>AARCH64 Arch Linux ARM on Raspberry Pi 4</title><link>https://alicela1n.github.io/post/2020-04-10-aarch64-arch-linux-arm-on-raspberry-pi-4/</link><pubDate>Fri, 10 Apr 2020 12:16:30 -0800</pubDate><guid>https://alicela1n.github.io/post/2020-04-10-aarch64-arch-linux-arm-on-raspberry-pi-4/</guid><description>Introduction So you may know about the Raspberry Pi, a single board computer designed for embedded applications and DIY projects. You may also know that some people use them as desktop computers. However, one of the biggest problems when it comes to the Pi 4 is poor 64bit support. There is little to none in mainline and the downstream kernel is a bit old. We won&amp;rsquo;t be fixing that problem but we will be running Arch Linux on the Pi 4 in 64bit mode, be aware that we are using an older kernel and it&amp;rsquo;s not the latest mainline support.</description></item><item><title>Running Mac OS X 10.2 in QEMU</title><link>https://alicela1n.github.io/post/2020-03-20-running-osx-102-in-qemu/</link><pubDate>Sat, 21 Mar 2020 13:14:30 -0800</pubDate><guid>https://alicela1n.github.io/post/2020-03-20-running-osx-102-in-qemu/</guid><description>Introduction If you remember my old blog (it no longer exists btw), I had a post where I ran OS X 10.2 in QEMU. That got popular so I decided to rewrite it in my jekyll blog.
-Tutorial First off this is what you need:
-OS X 10.2 isos QEMU A computer with a reasonable CPU and enough RAM (recommended to have at least a Core 2 Duo and 4GB RAM) Command line knowledge Patience Now we can get started!</description></item><item><title>Restoring and updating iOS devices from Linux with iDeviceRestore</title><link>https://alicela1n.github.io/post/2020-01-07-restoring-and-updating-ios-devices-from-linux-with-idevicerestore/</link><pubDate>Tue, 07 Jan 2020 13:14:30 -0800</pubDate><guid>https://alicela1n.github.io/post/2020-01-07-restoring-and-updating-ios-devices-from-linux-with-idevicerestore/</guid><description>Introduction You may be a Linux user, but you may have an iPhone as well. Occasionally there will be times when you&amp;rsquo;ll need to restore and update your iPhone. You may think that because you&amp;rsquo;re using Linux you are unable to restore or update your iOS device without a virtual machine or dualboot. Thankfully this is not true. Thanks to the developers behind libimobiledevice there are new tools to do the restore and update process directly from Linux.</description></item><item><title>One year of Linux on the 2010 MacBook Pro</title><link>https://alicela1n.github.io/post/2019-12-24-one-year-of-linux-on-the-2010-macbook-pro/</link><pubDate>Tue, 24 Dec 2019 15:09:34 -0800</pubDate><guid>https://alicela1n.github.io/post/2019-12-24-one-year-of-linux-on-the-2010-macbook-pro/</guid><description>Introduction So I got the 2010 MacBook Pro to use as a MacBook for school and on the go. I started using macOS in 2016 when I built my first hackintosh because I liked the user interface, the dock at the bottom, the bar at the top, and it looked nice together. However as I started getting into embedded development and some other stuff I quickly realized that macOS was insufficient for what I needed to accomplish.</description></item><item><title>How I triple booted my MacBook Pro</title><link>https://alicela1n.github.io/post/2019-12-01-how-i-triplebooted-my-macbook-pro/</link><pubDate>Sun, 01 Dec 2019 15:09:34 -0800</pubDate><guid>https://alicela1n.github.io/post/2019-12-01-how-i-triplebooted-my-macbook-pro/</guid><description>Introduction Important: This has only been tested on the MacBook7,1 and MacBook Pro7,1 and I take no responsibility if something goes wrong! So I&amp;rsquo;ve been thinking about doing this for quite a long time. You may think well it&amp;rsquo;s just a MacBook so it can&amp;rsquo;t possibly be that hard, I mean PCs have been doing this for years. Well yes and no. Before I explain why let me just tell you a bit of back story to why I needed to do this, I&amp;rsquo;ve basically been in a situation where I need to use Windows while on the go (yes it&amp;rsquo;s rare but sometimes happens).</description></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Alice's Digital Notebook</title><link>https://alicela1n.github.io/</link><description>Recent content on Alice's Digital Notebook</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>©2022 alicela1n</copyright><lastBuildDate>Mon, 03 Jan 2022 15:55:34 -0800</lastBuildDate><atom:link href="https://alicela1n.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://alicela1n.github.io/about/</link><pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate><guid>https://alicela1n.github.io/about/</guid><description>&lt;p>Little blog site.&lt;/p></description></item><item><title>The Paradox Of Backwards Compatibility</title><link>https://alicela1n.github.io/post/2022-01-03-the-paradox-of-backwards-compatibility/</link><pubDate>Mon, 03 Jan 2022 15:55:34 -0800</pubDate><guid>https://alicela1n.github.io/post/2022-01-03-the-paradox-of-backwards-compatibility/</guid><description>&lt;h1 id="backwards-compatibility-is-a-mess">Backwards compatibility is a mess&lt;/h1>
+&lt;p>Backwards compatibility is a mess. There&amp;rsquo;s not any other way to put it. You can either have an operating system that&amp;rsquo;s
+backwards compatible to a point where it&amp;rsquo;s inflexible in trying to make any changes because those changes could break
+compatibility with older software. You can have an operating system that is backwards compatible to a certain point,
+but after that point older software will no longer be supported, or you can have an operating system that isn&amp;rsquo;t
+backwards compatible at all, in which all software has to be updated to support the changes made to each release of
+the operating system. One minor change in an ABI (application binary interface) can be enough to break a lot of software,
+sometimes this software will have to be recompiled against the new ABI, or parts of the code will need to be changed or even
+rewritten entirely. Take Linux for example, often times libraries change requiring software to be recompiled against the new
+libraries. While the libc itself probably hasn&amp;rsquo;t changed, one library changing could be enough to break compatibility with
+that binary. Windows has a selling point of being backwards compatible, and Microsoft really tries to not break compatibility
+with older software, with that said the system libraries often times have to account for this backwards compatibility, or you
+need to install multiple versions of a library. Look at macOS, it&amp;rsquo;s somewhere in the middle in terms of backwards compatibility,
+software written for an old version of macOS might work on the next release, but it&amp;rsquo;s often times hit or miss. Too much backwards
+compatibility hurts progress, and means that the operating system can&amp;rsquo;t make improvements that could potentially break older software,
+too little backwards compatibility is also bad, it&amp;rsquo;s an annoyance to both developers and end users to constantly have their software
+broken with each and every change to the operating system, there needs to be a middle ground where an operating system can make
+improvements, while still keeping some backwards compatibility.&lt;/p>
+&lt;h1 id="some-solutions">Some solutions&lt;/h1>
+&lt;p>There&amp;rsquo;s a few solutions to this problem, one is virtualizing an older version of the operating system to run older software that no
+longer works. However this is annoying, cumbersome, and uses a lot of resources. Another solution includes shipping compatibility
+layers, either included with the operating system or as optional. One solution that flatpak uses is shipping multiple versions of
+libraries and having them pulled in as dependencies for the application, so when you install it you get the correct libraries.
+However it&amp;rsquo;s done, there&amp;rsquo;s still ways to achieve backwards compatibility. While not always pretty, they do work. Backwards compatibility
+is a paradox, there is no way to achieve 100% backwards compatibility.&lt;/p></description></item><item><title>Why I don't recommend Manjaro Linux</title><link>https://alicela1n.github.io/post/2021-10-18-manjarno/</link><pubDate>Mon, 18 Oct 2021 19:16:50 -0800</pubDate><guid>https://alicela1n.github.io/post/2021-10-18-manjarno/</guid><description>&lt;h1 id="introduction">&lt;strong>Introduction&lt;/strong>&lt;/h1>
+&lt;p>So on Twitter as a response to a tweet by Linus Tech Tips showing Linus&amp;rsquo;s frustration with Linux, I quoted the tweet saying &lt;a href="https://twitter.com/alicela1n/status/1449949423568445450"target="_blank" rel="noopener noreferrer">&amp;ldquo;This is why you don&amp;rsquo;t use Manjaro&amp;rdquo;&lt;/a>
+.
+&lt;img src="./assets/manjarno/tweet.png"
+alt="screenshot of the tweet"/>
+That got many responses, a lot from Manjaro users telling me how great Manjaro is. Now I didn&amp;rsquo;t expect that tweet to get as much attention as it did, or cause controversy. I respect people&amp;rsquo;s distro choices, and I think Linux is
+all about freedom of choice, and people should have the choice to use whatever distro they want to use. So why did I make this tweet? Well for one, he&amp;rsquo;s Linus Tech Tips and millions of people watch his content, but also to give an
+example to new Linux users of why you should not use Manjaro. Linus has stated in &lt;a href="https://youtu.be/rHpWKPfvTmM?t=619"target="_blank" rel="noopener noreferrer">a stream&lt;/a>
+that he hasn&amp;rsquo;t actually daily driven Linux, so Manjaro is his first experience.&lt;/p>
+&lt;h1 id="ssl-certificates">SSL certificates&lt;/h1>
+&lt;p>To start off, this isn&amp;rsquo;t about the distro itself. Rather it&amp;rsquo;s about the Manjaro developers and how they handle things. On at least two occasions their SSL certificates have expired, and instead of renewing them ahead of time to
+prevent this from happening, &lt;a href="https://web.archive.org/web/20150409095421/https://manjaro.github.io/expired_SSL_certificate/"target="_blank" rel="noopener noreferrer">they recommended that users roll back their clocks&lt;/a>
+. This is terrible, as they should have been onto this
+before it would have even happened. Additionally, suggesting such a terrible work around makes the maintainers look like they don&amp;rsquo;t know what they are doing. I would give them the benefit of the doubt here, if it only happened once.
+However, it happened &lt;a href="https://web.archive.org/web/20160528135123/http://manjaro.github.io/SSL-Certificate-Expired/"target="_blank" rel="noopener noreferrer">again&lt;/a>
+, this time they recommended using incognito mode to get around this problem.&lt;/p>
+&lt;h1 id="poorly-maintained-distro-and-bad-practices">Poorly maintained distro, and bad practices&lt;/h1>
+&lt;p>They snapshot the Arch Linux repositories, and &lt;a href="https://wiki.manjaro.org/index.php/Manjaro:A_Different_Kind_of_Beast"target="_blank" rel="noopener noreferrer">hold back updates for at least a week&lt;/a>
+under the unfounded assumption that this makes things more stable. This also causes problems with AUR packages because they don&amp;rsquo;t do the same for the AUR. For example, let&amp;rsquo;s say that &lt;a href="https://aur.archlinux.org/packages/paru-bin"target="_blank" rel="noopener noreferrer">paru-bin&lt;/a>
+gets compiled against a newer version of glibc than what is available for Manjaro, it may install but it won&amp;rsquo;t start, leaving users confused as to why this package is broken.
+This is not only unnecessary, but also pointless as Arch &lt;a href="https://wiki.archlinux.org/title/Official_repositories#Testing_repositories"target="_blank" rel="noopener noreferrer">tests packages&lt;/a>
+, and makes sure they are not broken.&lt;/p>
+&lt;p>Manjaro also has an &lt;a href="https://gitlab.manjaro.org/packages/core/manjaro-system/blob/master/manjaro-update-system.sh"target="_blank" rel="noopener noreferrer">update script&lt;/a>
+that contains all kinds of hacks, &lt;a href="https://gitlab.manjaro.org/packages/core/manjaro-system/blob/master/manjaro-update-system.sh#L325"target="_blank" rel="noopener noreferrer">such as removing lock files&lt;/a>
+, and doing unnecessary things that make no sense.&lt;/p>
+&lt;h1 id="security-issues">Security issues&lt;/h1>
+&lt;p>One example of a security issue in Manjaro is that they &lt;a href="https://gitlab.manjaro.org/applications/pamac/-/issues/719"target="_blank" rel="noopener noreferrer">snuck passwordless updates into pamac&lt;/a>
+. Packages in the AUR are not verified by Manjaro, nor Arch developers. Some of their core packages have also had security vulnerabilities.&lt;/p>
+&lt;h1 id="ddosing-the-aur">DDoSing the AUR&lt;/h1>
+&lt;p>There&amp;rsquo;s been a bug in pamac that has actually &lt;a href="https://gitlab.manjaro.org/applications/pamac/-/issues/1017"target="_blank" rel="noopener noreferrer">DDoSed the AUR&lt;/a>
+on &lt;a href="https://gitlab.manjaro.org/applications/pamac/-/issues/1135"target="_blank" rel="noopener noreferrer">multiple occasions&lt;/a>
+, and the Manjaro developers refuse to address it.&lt;/p>
+&lt;h1 id="myths-about-manjaro">Myths about Manjaro&lt;/h1>
+&lt;ol>
+&lt;li>Manjaro is Arch with an installer. No it isn&amp;rsquo;t, they maintain their own separate repositories, have separate packages, they are not Arch.&lt;/li>
+&lt;li>Manjaro is more stable than Arch. No it isn&amp;rsquo;t. Read everything I said above.&lt;/li>
+&lt;li>Manjaro is easier to use than Arch. Not true. Not only has Arch recently introduced an &lt;a href="https://archlinux.org/news/installation-medium-with-installer/"target="_blank" rel="noopener noreferrer">installer&lt;/a>
+, you run into far less problems using it, so there&amp;rsquo;s far less maintenence involved.&lt;/li>
+&lt;li>Manjaro looks nicer than Arch. Please just install a theme! Manjaro&amp;rsquo;s theme is a fork of &lt;a href="https://github.com/nana-4/materia-theme"target="_blank" rel="noopener noreferrer">Materia&lt;/a>
+.&lt;/li>
+&lt;/ol>
+&lt;h1 id="ive-used-manjaro">I&amp;rsquo;ve used Manjaro&lt;/h1>
+&lt;p>I know what people are gonna say, they&amp;rsquo;re gonna say that I need to try Manjaro out for myself, but I already have. Here&amp;rsquo;s a picture of Manjaro running on one of my laptops, May 2019.
+&lt;img src="./assets/manjarno/manjaro-on-laptop.jpg"
+alt="manjaro on laptop"/>
+I don&amp;rsquo;t make claims about things that I haven&amp;rsquo;t tried, and I do my best to not make unresearched or unfounded claims.&lt;/p>
+&lt;h1 id="dont-ask-me-about-any-other-arch-derivatives">Don&amp;rsquo;t ask me about any other Arch derivatives&lt;/h1>
+&lt;p>I won&amp;rsquo;t say that I&amp;rsquo;m for or against any of the other ones. I haven&amp;rsquo;t used them, or researched them so I have no opinion about them. This post is specifically about Manjaro, no other Arch derivative.&lt;/p>
+&lt;h1 id="dont-just-take-my-word-for-it">Don&amp;rsquo;t just take my word for it&lt;/h1>
+&lt;p>Here&amp;rsquo;s some other things I recommend checking out:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/kruug/manjarno"target="_blank" rel="noopener noreferrer">https://github.com/kruug/manjarno&lt;/a>
+&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=5uzpbXQS4F8"target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=5uzpbXQS4F8&lt;/a>
+&lt;/li>
+&lt;li>&lt;a href="https://www.reddit.com/r/FindMeADistro/comments/cyn0hw/why_you_shouldnt_use_manjaro/"target="_blank" rel="noopener noreferrer">https://www.reddit.com/r/FindMeADistro/comments/cyn0hw/why_you_shouldnt_use_manjaro/&lt;/a>
+&lt;/li>
+&lt;li>&lt;a href="https://manjarno.snorlax.sh/"target="_blank" rel="noopener noreferrer">https://manjarno.snorlax.sh/&lt;/a>
+&lt;/li>
+&lt;/ul>
+&lt;h1 id="conclusion">Conclusion&lt;/h1>
+&lt;p>In conclusion, I don&amp;rsquo;t recommend that you use Manjaro. Instead I recommend either using vanilla Arch, or not Arch at all. I wrote this post because a lot of people ask me about this, especially anytime I talk about Manjaro.&lt;/p></description></item><item><title>Installing Gentoo on the Pentium III</title><link>https://alicela1n.github.io/post/2021-09-18-installing-gentoo-on-the-pentium-iii/</link><pubDate>Sat, 18 Sep 2021 19:16:50 -0800</pubDate><guid>https://alicela1n.github.io/post/2021-09-18-installing-gentoo-on-the-pentium-iii/</guid><description>&lt;p>&lt;strong>This blog post targets EXPERIENCED Gentoo users only, I&amp;rsquo;m not helping you, and you are on your own! The future is uncertain, since this setup involves using old versions of some packages, and patches for others, it&amp;rsquo;s uncertain whether or not it&amp;rsquo;ll work tomorrow, or whether or not you&amp;rsquo;ll be able to update this install in the future, so use at your own risk!&lt;/strong>&lt;/p>
+&lt;p>This post is not 100% complete, but if I don&amp;rsquo;t upload it now I won&amp;rsquo;t ever.&lt;/p>
+&lt;h1 id="introduction">&lt;strong>Introduction&lt;/strong>&lt;/h1>
+&lt;p>As you probably know, the Pentium III was released back in 1999. It is a CPU by Intel that&amp;rsquo;s been used in desktops, laptops, and more recently, in the embedded world. Discontinued back in 2007, it lacks many features of modern Intel CPUs, including SSE2, which won&amp;rsquo;t cause problems for the minimal Gentoo install, however it will cause problems when we build and install Xorg, due to rust being a requirement for many packages. Rust requires SSE2 to build, and the Pentium III lacks the SSE2 instruction. Gentoo has a binary package for rust, however it too requires SSE2 as the binary was built with SSE2.&lt;/p>
+&lt;p>Altogether the installation took a couple days, some of that was compile times, as well as getting everything to work. It took two days to get to the point where I can start an X server.&lt;/p>
+&lt;h1 id="problems-and-work-arounds">&lt;strong>Problems and work arounds&lt;/strong>&lt;/h1>
+&lt;p>Without SSE2 we can technically build Xorg, however things like polkit, librsvg, and many others will require SSE2. I&amp;rsquo;ve been putting together &lt;a href="https://github.com/alicela1n/gentoo-piii"target="_blank" rel="noopener noreferrer">an overlay&lt;/a>
+for versions of packages, as well as patches for some packages, such as polkit to get around the SSE2 requirement. I&amp;rsquo;m not planning on actively maintaining it, so if you have any issues I may or may not fix it if you open a GitHub issue, or submit a poll request.Use it at your own risk, of course.&lt;/p>
+&lt;p>Since rust is out of the question for now, we can mask it to ensure that it doesn&amp;rsquo;t get pulled in.&lt;/p>
+&lt;pre tabindex="0">&lt;code>/etc/portage/package.mask
+# Rust cannot be bootstrapped on this old architecture
+# Masking for now
+dev-lang/rust
+dev-lang/rust-bin
+virtual/rust
+&lt;/code>&lt;/pre>&lt;p>Since you cannot use the desktop profile, you will need to pull in &lt;code>x11-base/xorg-server&lt;/code> manually. Add my overlay and &lt;code>echo &amp;quot;sys-auth/polkit duktape&amp;quot; &amp;gt; /etc/portage/package.use/polkit&lt;/code> and then &lt;code>emerge --oneshot polkit&lt;/code> from it, although soon duktape support will be merged into polkit upstream, so this won&amp;rsquo;t be required anymore. Then &lt;code>emerge x11-base/xorg-server&lt;/code> to pull in Xorg.&lt;/p>
+&lt;p>LXDE and other desktop environments require &lt;code>gnome-base/librsvg&lt;/code>, which upstream requires rust to build. In my overlay I have an old version of this package that works without rust, that same version is in the Gentoo repositories as of this date, however it&amp;rsquo;s uncertain whether or not it&amp;rsquo;ll be kept, and that&amp;rsquo;s why it&amp;rsquo;s in my overlay. In your &lt;code>package.mask&lt;/code> add the following:&lt;/p>
+&lt;pre tabindex="0">&lt;code># Requires rust
+&amp;gt;=gnome-base/librsvg-2.48
+&amp;gt;=x11-themes/adwaita-icon-theme-40.1.1
+&lt;/code>&lt;/pre>&lt;h1 id="software">&lt;strong>Software&lt;/strong>&lt;/h1>
+&lt;p>In terms of web browsers I decided to go with Pale Moon as it&amp;rsquo;s a lightweight browser, based off of Firefox 3 or 4. It can be compiled without rust and without SSE2, which is perfect for the Pentium III.&lt;/p>
+&lt;h1 id="conclusion">&lt;strong>Conclusion&lt;/strong>&lt;/h1>
+&lt;p>So once all that is done, you should have a Gentoo install on the Pentium III without having rust. Is it worth it? Well it&amp;rsquo;s a fun experiment, however probably not if you actually want to use this. The future is uncertain, and it might not keep working forever. Maybe I&amp;rsquo;m just a masochist. Knowing these experiments have no practical use, I just like doing them anyway.&lt;/p></description></item><item><title>Why I use Arch Linux</title><link>https://alicela1n.github.io/post/2021-09-17-why-i-use-arch-linux/</link><pubDate>Fri, 17 Sep 2021 17:16:50 -0800</pubDate><guid>https://alicela1n.github.io/post/2021-09-17-why-i-use-arch-linux/</guid><description>&lt;h1 id="introduction">&lt;strong>Introduction&lt;/strong>&lt;/h1>
+&lt;p>So as you know, I use Arch Linux with the KDE Plasma desktop environment. I&amp;rsquo;ve tried a few other distros, like Gentoo, Fedora, Debian and I&amp;rsquo;ve always eventually come back to Arch Linux. I decided to write this blog post to get into some of the reasons why that is.&lt;/p>
+&lt;h1 id="rolling-release">Rolling Release&lt;/h1>
+&lt;p>This is a huge thing for me, I love rolling release distros, and I love having access to the latest software. While being a double edged sword, as rolling releases can have impacted stability, generally they are quite stable. Stability issues with rolling release distros are often times overexaggerated, you will generally find Arch Linux to be a very stable distribution, if you keep the best practices.&lt;/p>
+&lt;p>Practices like:&lt;/p>
+&lt;ul>
+&lt;li>Read the Arch Linux news, very important!!&lt;/li>
+&lt;li>Follow the wiki&lt;/li>
+&lt;li>Don&amp;rsquo;t randomly install packages if you don&amp;rsquo;t know what they are (advice for ANY distribution)&lt;/li>
+&lt;li>Update regularly, but not obsessively, now this one is important&lt;/li>
+&lt;li>Don&amp;rsquo;t install too many AUR packages no matter how tempting it is&lt;/li>
+&lt;li>Install software you trust, again best practices for any distro&lt;/li>
+&lt;li>NEVER make install unless it&amp;rsquo;s to a distinctive subdirectory in /opt, or in your home directory&lt;/li>
+&lt;li>Regularly audit and remove software you don&amp;rsquo;t need&lt;/li>
+&lt;li>Update configuration files&lt;/li>
+&lt;li>Reboot after kernel updates&lt;/li>
+&lt;/ul>
+&lt;h1 id="stability">Stability&lt;/h1>
+&lt;p>Arch Linux is often times heavily ridiculed for being &amp;ldquo;unstable&amp;rdquo;, however as I&amp;rsquo;ve mentioned, as long as you keep the best practices you should have a stable system. Arch Linux probably won&amp;rsquo;t ever spontaneously break, unless you don&amp;rsquo;t know what you are doing, or you deliberately break it. I&amp;rsquo;ve never run into any serious problems using Arch Linux, and any problems I have run into are typically fixable in around 5 minutes.&lt;/p>
+&lt;h1 id="highly-flexible-when-needed">Highly flexible when needed&lt;/h1>
+&lt;p>When I ran Gentoo Linux, I ended up having to compile very package from source, and that got very annoying. With Arch Linux however, it comes with precompiled binaries, and it&amp;rsquo;s very easy to compile your own packages from source simply using the &lt;a href="https://wiki.archlinux.org/title/Arch_Build_System"target="_blank" rel="noopener noreferrer">Arch Build System&lt;/a>
+.&lt;/p>
+&lt;h1 id="arch-user-repository">Arch User Repository&lt;/h1>
+&lt;p>The &lt;a href="https://aur.archlinux.org/"target="_blank" rel="noopener noreferrer">Arch User Repository&lt;/a>
+, or AUR is a repository where people can upload packages to. Usually if a program isn&amp;rsquo;t in the main directories, you&amp;rsquo;ll almost always find it in the AUR. The AUR is a great resource for finding packages. You can also upload any packages that you maintain to the AUR so you don&amp;rsquo;t need to maintain your own repository.&lt;/p>
+&lt;h1 id="the-arch-wiki">The Arch Wiki&lt;/h1>
+&lt;p>The Arch Linux wiki is a fantastic resource, even if you&amp;rsquo;re not using Arch Linux. It&amp;rsquo;s a very helpful wiki and well written, it&amp;rsquo;s very well documented and you&amp;rsquo;ll almost always find what you need, and contributing to the wiki is easy!&lt;/p>
+&lt;h1 id="its-what-im-familiar-with">It&amp;rsquo;s what I&amp;rsquo;m familiar with&lt;/h1>
+&lt;p>Why should I use something else? I&amp;rsquo;m familiar with Arch Linux and I&amp;rsquo;ve used it for a long time. I&amp;rsquo;ve eventually come to realize this, as all of my distro hopping ends with me going back to using Arch Linux.&lt;/p>
+&lt;h1 id="conclusion">Conclusion&lt;/h1>
+&lt;p>When it comes to Linux distros, just use what you are familiar with, if you have no reason to switch, then why switch? I&amp;rsquo;m quite comfortable and familiar with using Arch Linux, as I&amp;rsquo;ve used it long enough to establish a familiarity with it, and be comfortable with using it.&lt;/p></description></item><item><title>Learning to Love Vim</title><link>https://alicela1n.github.io/post/2021-09-12-learning-to-love-vim/</link><pubDate>Sun, 12 Sep 2021 17:45:50 -0800</pubDate><guid>https://alicela1n.github.io/post/2021-09-12-learning-to-love-vim/</guid><description>&lt;p>&lt;img src="./assets/vim/Screenshot_20210912_103544.png"
+alt="vim screenshot"/>&lt;/p>
+&lt;h1 id="introduction">&lt;strong>Introduction&lt;/strong>&lt;/h1>
+&lt;p>When I first learned about Vim I wasn&amp;rsquo;t very enthusiastic about it, I wasn&amp;rsquo;t very open minded and didn&amp;rsquo;t want to use it because I didn&amp;rsquo;t know how to use it. However, things have changed, and I&amp;rsquo;m now using vim as my primary editor!
+I used to use Text Wrangler (back when I used a MacBook), then switched over to Visual Studio Code when I switched over to using Linux, I eventually settled on using Sublime Text, and still do use it for larger projects. However,
+I type all my blog posts, and papers, and some of my code in Vim. I learned how to use Vim back in 2019, I started loving Vim because it&amp;rsquo;s so simple and lightweight, yet it&amp;rsquo;s so powerful. Once you learn how to use Vim you&amp;rsquo;re
+probably not gonna want to use nano again, and I can&amp;rsquo;t use nano again, even for simple stuff I install Vim on every Linux installation, every UNIX-like operating system, and everything that I have the ability to install Vim on. I
+even use Vim on my iPhone with an app called iVim, or inside iSH Shell.&lt;/p>
+&lt;h1 id="learning-how-to-use-vim">&lt;strong>Learning how to use Vim&lt;/strong>&lt;/h1>
+&lt;p>I recommend checking out &lt;code>vimtutor&lt;/code> which comes preinstalled with Vim, and teaches you how to use it. I didn&amp;rsquo;t learn how to use Vim using &lt;code>vimtutor&lt;/code>, I didn&amp;rsquo;t even know that Vim had a tutor when I was learning how to use it, however
+I wish I did because &lt;code>vimtutor&lt;/code> teaches you so many useful things that I never learned for my first few months using Vim.&lt;/p>
+&lt;h1 id="configuring-vim">&lt;strong>Configuring Vim&lt;/strong>&lt;/h1>
+&lt;p>By default the Vim configuration isn&amp;rsquo;t very usable for me, I have to configure some things to be the way I want, for example, by default it doesn&amp;rsquo;t show line numbers which is a necessity for doing serious editing. I always have to
+enable that, otherwise it&amp;rsquo;s unusable for me. You can check my &lt;a href="https://github.com/alicela1n/dotfiles/blob/main/dotfiles/vimrc"target="_blank" rel="noopener noreferrer">vimrc&lt;/a>
+in my &lt;a href="https://github.com/alicela1n/dotfiles"target="_blank" rel="noopener noreferrer">dotfiles repository&lt;/a>
+to see all the changes I&amp;rsquo;ve
+made to the default configuration. As you can see I don&amp;rsquo;t have very many plugins for stock vim, however I do for neovim, which I don&amp;rsquo;t use very often, mainly because stock vim is typically enough. If you are curious, here&amp;rsquo;s my
+&lt;a href="https://github.com/alicela1n/dotfiles/blob/main/dotfiles/config/nvim/init.vim"target="_blank" rel="noopener noreferrer">neovim config&lt;/a>
+.&lt;/p>
+&lt;h1 id="using-vim-for-editing">&lt;strong>Using vim for editing&lt;/strong>&lt;/h1>
+&lt;p>Vim has multiple modes, which separates it from many other editors, which are typically single mode. Vim has modes like insert mode, normal mode, and visual mode. These modes are all very useful for different things. I&amp;rsquo;m still
+getting used to each and every vim keybinding, and I&amp;rsquo;m discovering more and more things vim can do the more I use it. Vim is so packed full with features that you won&amp;rsquo;t learn everything at first, but you will discover more and more
+useful features to enhance your workflow the more you use it. It has so many useful features, and navigating Vim using hjkl means you don&amp;rsquo;t have to move your hand down to the arrow keys. If you want a good editor that doesn&amp;rsquo;t
+require using the mouse, highly recommended that you check out Vim.&lt;/p>
+&lt;h1 id="vim-emulation-in-other-editors">&lt;strong>Vim emulation in other editors&lt;/strong>&lt;/h1>
+&lt;p>If you use Sublime Text, there&amp;rsquo;s a lot of packages to get Vim emulation. Emacs has a plugin called Evil which adds Vim emulation, and I think it&amp;rsquo;s pretty great. A lot of other editors either have plugins for Vim emulation or Vim
+modes. So you can transfer your Vim workflow to many other editors, which means you don&amp;rsquo;t have to stop using the editor you&amp;rsquo;re currently using, and it makes it really convenient to switch between editors, which is something I do
+quite a bit depending on what I&amp;rsquo;m working on.&lt;/p>
+&lt;h1 id="conclusion">&lt;strong>Conclusion&lt;/strong>&lt;/h1>
+&lt;p>In conclusion, I think Vim is a great editor, and I don&amp;rsquo;t regret using it. Vim has really enhanced my workflow and I think everyone should at least try it, even if you aren&amp;rsquo;t gonna stick with it. Using Vim saves hours of my day and
+if you get good at the Vim workflow you can really improve your productivity.&lt;/p></description></item><item><title>Installing Gentoo</title><link>https://alicela1n.github.io/post/2021-08-26-installing-gentoo/</link><pubDate>Thu, 26 Aug 2021 23:45:50 -0800</pubDate><guid>https://alicela1n.github.io/post/2021-08-26-installing-gentoo/</guid><description>&lt;h1 id="introduction">&lt;strong>Introduction&lt;/strong>&lt;/h1>
+&lt;p>Gentoo is a source based Linux distribution which is very flexible and can be customized to fit the user&amp;rsquo;s needs. &lt;del>A bit ago I started using Gentoo Linux daily.&lt;/del> EDIT: Back to using Arch Linux. Here&amp;rsquo;s the install procedure, because a lot of people seem to think
+it&amp;rsquo;s difficult.&lt;/p>
+&lt;h1 id="creating-a-live-usb">&lt;strong>Creating a live USB&lt;/strong>&lt;/h1>
+&lt;p>Obviously before we can begin, we need to boot the computer into some kind of environment. I opt for &lt;a href="https://www.system-rescue.org/"target="_blank" rel="noopener noreferrer">systemrescuecd&lt;/a>
+.&lt;/p>
+&lt;p>You can use dd to create the USB.&lt;/p>
+&lt;pre tabindex="0">&lt;code>$ dd if=systemrescuecd.iso of=/dev/sdb bs=4096 status=progress
+&lt;/code>&lt;/pre>&lt;p>If you are on Windows you can use &lt;a href="https://win32diskimager.org/"target="_blank" rel="noopener noreferrer">win32diskimager&lt;/a>
+.&lt;/p>
+&lt;h1 id="preparations">&lt;strong>Preparations&lt;/strong>&lt;/h1>
+&lt;p>Boot into systemrescuecd the same way you&amp;rsquo;d boot into any other USB. Once booted you can either start the GUI or continue in the command line, your choice. I will be going through the steps in the command line.&lt;/p>
+&lt;h1 id="partitioning-the-disk">Partitioning the disk&lt;/h1>
+&lt;p>List the disks out using lsblk, you should see an output like this:&lt;/p>
+&lt;pre tabindex="0">&lt;code>NAME MAJ:MIN RM SIZE RO TYPE MOUNTPOINT
+sda 8:0 0 931.5G 0 disk
+└─sda1 8:1 0 931.5G 0 part
+sr0 11:0 1 2K 0 rom
+&lt;/code>&lt;/pre>&lt;p>This command lists out block devices. Keep note of the hard disk or SSD you want to install to because you&amp;rsquo;ll need to know it for preparing the disk.&lt;/p>
+&lt;p>Run the cfdisk command with the name of the disk you want to install to.&lt;/p>
+&lt;pre tabindex="0">&lt;code># cfdisk /dev/sda
+&lt;/code>&lt;/pre>&lt;p>Follow the instructions for creating a new partition, should be self explanatory, but if you&amp;rsquo;re not sure how to use cfdisk, &lt;a href="https://www.makeuseof.com/how-to-create-resize-and-delete-linux-partitions-with-cfdisk/"target="_blank" rel="noopener noreferrer">this article&lt;/a>
+explains better than me.
+If you are using &lt;code>MBR&lt;/code> or &lt;code>DOS&lt;/code> you will need to mark the first partition as &lt;code>Bootable&lt;/code>.&lt;/p>
+&lt;p>This is an example layout:&lt;/p>
+&lt;pre tabindex="0">&lt;code>Boot partition: /dev/sda1 fat32 500MB (must be fat32 if you&amp;#39;re using UEFI, because that&amp;#39;s the EFI system partition)
+Root partition: /dev/sda2 ext4 241GB (you&amp;#39;re gonna need a lot for compiling)
+Swap partition: /dev/sda3 swap 8GB
+&lt;/code>&lt;/pre>&lt;p>Formatting and creating the filesystems.&lt;/p>
+&lt;pre tabindex="0">&lt;code># mkfs.vfat -n boot /dev/sda1 (creates a fat32 filesystem with the label boot)
+# mkfs.ext4 -L linux /dev/sda2 (creates an ext4 filesystem with the label linux)
+# mkswap -L swap /dev/sda3 (creates a swap partition with the label swap)
+&lt;/code>&lt;/pre>&lt;p>Mounting the disks&lt;/p>
+&lt;pre tabindex="0">&lt;code># mkdir -p /mnt/gentoo
+# mount /dev/sda2 /mnt/gentoo (mount root partition in /mnt/gentoo)
+# mkdir /mnt/gentoo/boot (create boot directory)
+# swapon /dev/sda3 (swapon the swap partition)
+&lt;/code>&lt;/pre>&lt;h1 id="installing-the-root-filesystem">Installing the root filesystem&lt;/h1>
+&lt;p>You will need a root filesystem tarball to use for installing Gentoo, you can get it from &lt;a href="https://bouncer.gentoo.org/fetch/root/all/releases/amd64/autobuilds/current-stage3-amd64-openrc/"target="_blank" rel="noopener noreferrer">https://bouncer.gentoo.org/fetch/root/all/releases/amd64/autobuilds/current-stage3-amd64-openrc/&lt;/a>
+.&lt;/p>
+&lt;pre tabindex="0">&lt;code># cd /mnt/gentoo (enter the directory where the root partition is mounted)
+# wget https://bouncer.gentoo.org/fetch/root/all/releases/amd64/autobuilds/20210801T170533Z/stage3-amd64-openrc-20210801T170533Z.tar.xz (download a stage tarball as close to this date as possible)
+&lt;/code>&lt;/pre>&lt;p>Unpack the stage tarball&lt;/p>
+&lt;pre tabindex="0">&lt;code># tar xvpf stage3-amd64-openrc-20210801T170533Z.tar.xz --xattrs-include=&amp;#34;*&amp;#34; --numeric-owner
+&lt;/code>&lt;/pre>&lt;p>Configure some things like the &lt;code>make.conf&lt;/code>&lt;/p>
+&lt;pre tabindex="0">&lt;code># vim /mnt/gentoo/etc/portage/make.conf
+&lt;/code>&lt;/pre>&lt;p>A default &lt;code>make.conf&lt;/code> will look something like this&lt;/p>
+&lt;pre tabindex="0">&lt;code># These settings were set by the catalyst build script that automatically
+# built this stage
+# Please consult /usr/share/portage/config/make.conf.example for a more
+# detailed example
+COMMON_FLAGS=&amp;#34;-O2 -pipe&amp;#34;
+CFLAGS=&amp;#34;${COMMON_FLAGS}&amp;#34;
+CXXFLAGS=&amp;#34;${COMMON_FLAGS}&amp;#34;
+FCFLAGS=&amp;#34;${COMMON_FLAGS}&amp;#34;
+FFLAGS=&amp;#34;${COMMON_FLAGS}&amp;#34;
+# NOTE: This stage was built with the bindist Use flag enabled
+PORTDIR=&amp;#34;/var/db/repos/gentoo&amp;#34;
+DISTDIR=&amp;#34;/var/cache/distfiles&amp;#34;
+PKGDIR=&amp;#34;/var/cache/binpkgs&amp;#34;
+# This sets the language of build output to English.
+# Please keep this setting intact when reporting bugs.
+LC_MESSAGES=C
+&lt;/code>&lt;/pre>&lt;p>Customize it the way you want or need, here&amp;rsquo;s an example of a customized one&lt;/p>
+&lt;pre tabindex="0">&lt;code># CFLAGS and other stuff specific to my CPU
+COMMON_FLAGS=&amp;#34;-march=skylake -O2 -pipe&amp;#34;
+CFLAGS=&amp;#34;${COMMON_FLAGS}&amp;#34;
+CXXFLAGS=&amp;#34;${COMMON_FLAGS}&amp;#34;
+FCFLAGS=&amp;#34;${COMMON_FLAGS}&amp;#34;
+FFLAGS=&amp;#34;${COMMON_FLAGS}&amp;#34;
+MAKEOPTS=&amp;#34;-j7&amp;#34;
+VIDEO_CARDS=&amp;#34;intel i965 iris&amp;#34;
+INPUT_DEVICES=&amp;#34;wacom libinput&amp;#34;
+CPU_FLAGS_X86=&amp;#34;aes avx avx2 f16c fma3 mmx mmxext pclmul popcnt rdrand sse sse2 sse3 sse4_1 sse4_2 ssse3&amp;#34;
+# USE flags
+USE=&amp;#34;-gnome -ppp wayland X xinerama bluetooth pulseaudio networkmanager \
+qt5 kde dvd cdr avahi Xvaapi sound vim-syntax x264 \
+zsh-completion udev ios gphoto2&amp;#34;
+# Build a binary package that I can distribute to other machines
+PORTAGE_NICENESS=14
+L10N=&amp;#34;en en-US&amp;#34;
+# Set targets for certain packages
+ADA_TARGET=&amp;#34;gnat_2021&amp;#34;
+QEMU_SOFTMMU_TARGETS=&amp;#34;arm aarch64 alpha i386 x86_64 sparc sparc64 ppc ppc64 riscv32 riscv64 mipsel mips64el mips mips64&amp;#34;
+QEMU_USER_TARGETS=&amp;#34;x86_64 i386 aarch64 arm&amp;#34;
+GRUB_PLATFORMS=&amp;#34;efi-64 pc&amp;#34;
+# Accept all licenses, except those with a EULA
+ACCEPT_LICENSE=&amp;#34;* -@EULA&amp;#34;
+# Set default emerge options
+EMERGE_DEFAULT_OPTS=&amp;#34;${EMERGE_DEFAULT_OPTS} --jobs 4 --usepkg-exclude &amp;#39;sys-kernel/gentoo-sources virtual/*&amp;#39;&amp;#34;
+# Portage directories
+PORTDIR=&amp;#34;/var/db/repos/gentoo&amp;#34;
+DISTDIR=&amp;#34;/var/cache/distfiles&amp;#34;
+PKGDIR=&amp;#34;/var/cache/binpkgs&amp;#34;
+CCACHE_DIR=&amp;#34;/var/cache/ccache&amp;#34;
+# This sets the language of build output to English.
+# Please keep this setting intact when reporting bugs.
+LC_MESSAGES=C
+# Mirrors
+GENTOO_MIRRORS=&amp;#34;https://mirrors.advancedhosters.com/gentoo/ http://gentoo.mirrors.easynews.com/linux/gentoo/ http://mirrors.rit.edu/gentoo/ http://www.gtlib.gatech.edu/pub/gentoo&amp;#34;
+&lt;/code>&lt;/pre>&lt;p>A quick run down of what the basic options do&lt;/p>
+&lt;h1 id="cflags">CFLAGS&lt;/h1>
+&lt;p>&lt;code>COMMON_FLAGS&lt;/code> is basically where your compiler flags will go. You can read a bit about safe &lt;code>CFLAGS&lt;/code> &lt;a href="https://wiki.gentoo.org/wiki/Safe_CFLAGS"target="_blank" rel="noopener noreferrer">here&lt;/a>
+. CFLAGS tell the compiler what optimizations and options to use, when
+compiling the code. So it basically tells the compiler how it wants to produce the code. Some CFLAGS which you should pay attention to are &lt;code>-O&lt;/code>, this is optimization level, it goes all the way up to &lt;code>-O3&lt;/code>. &lt;code>-O2&lt;/code> is the
+recommended and known stable optimization level. &lt;code>-O0&lt;/code> is basically no optimization, so it&amp;rsquo;s usually used for debugging, and &lt;code>-O1&lt;/code> is little optimization. You might want to pay attention to &lt;code>-march&lt;/code> and &lt;code>-mtune&lt;/code> which tells
+the compiler how to produce the best and most optimized code for your CPU microarchitecture. &lt;code>-march&lt;/code> is forwards compatible, but not backwards compatible, so binaries compiled using &lt;code>-march=core2&lt;/code> will run on Core 2 and up.
+&lt;code>-mtune&lt;/code> tells the compiler to optimize code for a specific CPU microarchitecture, without breaking compatibility with older CPUs. An example would be &lt;code>-march=haswell -mtune=skylake&lt;/code>, what this would do is produce binaries
+compatible with Haswell and up, but optimized for Skylake, so it won&amp;rsquo;t perform as well as &lt;code>-march=skylake&lt;/code> but your binaries will remain compatible with the older microarchitecture. I recommend avoiding most &lt;code>CFLAGS&lt;/code>, that you
+might see on forums and things, such as &lt;code>-funroll-all-loops&lt;/code> and &lt;code>-ffast-math&lt;/code>. These &lt;code>CFLAGS&lt;/code> are typically very aggressive and can produce unstable and/or broken code. &lt;code>-pipe&lt;/code> will not make any difference on the generated code, but will make compilation faster, turn this off if you are on a limited amount of RAM.&lt;/p>
+&lt;h1 id="cpu_flags_x86">CPU_FLAGS_X86&lt;/h1>
+&lt;p>&lt;code>CPU_FLAGS_X86&lt;/code> is what tells the compiler which CPU instructions to enable, you can see which your CPU supports by running the &lt;code>lscpu&lt;/code> command, and checking out flags. This is optional and you probably don&amp;rsquo;t have to worry
+about it right now, but it&amp;rsquo;s something you can either setup now or later. It tells the compiler to produce code that takes advantage of the instructions in your CPU, so if you want binaries compatible with an older CPU, only
+use instructions compatible with that older CPU, otherwise you&amp;rsquo;ll get &lt;code>illegal instruction&lt;/code> when trying to run the binaries on an older CPU that&amp;rsquo;s missing that instruction.&lt;/p>
+&lt;h1 id="makeopts">MAKEOPTS&lt;/h1>
+&lt;p>&lt;code>MAKEOPTS&lt;/code> tells portage how many threads to give the compiler. It&amp;rsquo;s recommended to only enable as many &lt;code>MAKEOPTS&lt;/code> as you have RAM to support it. If you are running into compilation failures due to lack of RAM, or lock ups,
+lower your &lt;code>MAKEOPTS&lt;/code>. You should have at least 2GB RAM for each &lt;code>MAKEOPT&lt;/code> you have. For &lt;code>MAKEOPTS=j4&lt;/code> you should have at least 8GB RAM.&lt;/p>
+&lt;h1 id="use-flags">USE flags&lt;/h1>
+&lt;p>&lt;code>USE&lt;/code> tells portage what global use flags to enable. If you want to enable &lt;code>qt5&lt;/code> and &lt;code>kde&lt;/code> globally, such as if you are a KDE user. You can enable that by setting &lt;code>USE&lt;/code> in &lt;code>make.conf&lt;/code>. For individual packages you should
+instead customize &lt;code>/etc/portage/package.use&lt;/code>. You can set USE flags for individual packages for example &lt;code>app-editors/emacs dbus gtk gpm gui inotify libxml2 sound source ssl xft xwidgets&lt;/code> which sets these use flags for &lt;code>emacs&lt;/code>.
+&lt;code>/etc/portage/package.use&lt;/code> can either be a directory or a file, by default it&amp;rsquo;s a directory now. A quick way to enable use flags for a package would be &lt;code># echo &amp;quot;app-editors/emacs dbus gtk gpm gui inotify libxml2 sound source ssl xft xwidgets&amp;quot; &amp;gt; /etc/portage/package.use/emacs&lt;/code>.&lt;/p>
+&lt;h1 id="accept_license">ACCEPT_LICENSE&lt;/h1>
+&lt;p>&lt;code>ACCEPT_LICENSE&lt;/code> tells portage which licenses to accept by default, by default I believe it accepts free software licenses, but I have it set to the old behavior &lt;code>ACCEPT_LICENSE=&amp;quot;* -@EULA&amp;quot;&lt;/code> which is accept any license, except
+EULAs.&lt;/p>
+&lt;h1 id="configuring-the-gentoo-repos">Configuring the Gentoo repos&lt;/h1>
+&lt;p>Create the &lt;code>repos.conf&lt;/code> directory&lt;/p>
+&lt;pre tabindex="0">&lt;code># mkdir --parents /mnt/gentoo/etc/portage/repos.conf
+&lt;/code>&lt;/pre>&lt;p>Copy the Gentoo repository configuration file to &lt;code>repos.conf&lt;/code>&lt;/p>
+&lt;pre tabindex="0">&lt;code># cp /mnt/gentoo/usr/share/portage/config/repos.conf /mnt/gentoo/etc/portage/repos.conf/gentoo.conf
+&lt;/code>&lt;/pre>&lt;h1 id="chrooting">&lt;strong>Chrooting&lt;/strong>&lt;/h1>
+&lt;p>Enter the following commands to get into the chroot environment.&lt;/p>
+&lt;pre tabindex="0">&lt;code># mount -t proc /proc /mnt/gentoo/proc
+# mount -R /sys /mnt/gentoo/sys
+# mount -R /dev /mnt/gentoo/dev
+# chroot /mnt/gentoo /bin/bash
+# source /etc/profile
+# export PS1=&amp;#34;(chroot) ${PS1}&amp;#34; (so we know we are in the chroot)
+# echo &amp;#34;nameserver 1.1.1.1&amp;#34; &amp;gt; /etc/resolv.conf (we need a resolv.conf for networking as it provides DNS info, I just use the 1.1.1.1 DNS for the chroot)
+&lt;/code>&lt;/pre>&lt;h1 id="syncing-the-portage-tree">Syncing the portage tree&lt;/h1>
+&lt;p>At this point you should sync the portage tree before going any further&lt;/p>
+&lt;pre tabindex="0">&lt;code># emerge-webrsync (grabs a recent snapshot of portage, might be a couple days old)
+# emerge --sync (syncs portage with the latest repositories on the Gentoo servers as of the moment you run it)
+&lt;/code>&lt;/pre>&lt;h1 id="selecting-a-profile">Selecting a profile&lt;/h1>
+&lt;p>List profiles to see which one you want&lt;/p>
+&lt;pre tabindex="0">&lt;code># eselect profile list
+Available profile symlink targets:
+[1] default/linux/amd64/17.1 (stable) *
+[2] default/linux/amd64/17.1/selinux (stable)
+[3] default/linux/amd64/17.1/hardened (stable)
+[4] default/linux/amd64/17.1/hardened/selinux (stable)
+[5] default/linux/amd64/17.1/desktop (stable)
+[6] default/linux/amd64/17.1/desktop/gnome (stable)
+[7] default/linux/amd64/17.1/desktop/gnome/systemd (stable)
+[8] default/linux/amd64/17.1/desktop/plasma (stable)
+[9] default/linux/amd64/17.1/desktop/plasma/systemd (stable)
+[10] default/linux/amd64/17.1/desktop/systemd (stable)
+[11] default/linux/amd64/17.1/developer (stable)
+[12] default/linux/amd64/17.1/no-multilib (stable)
+[13] default/linux/amd64/17.1/no-multilib/hardened (stable)
+[14] default/linux/amd64/17.1/no-multilib/hardened/selinux (stable)
+[15] default/linux/amd64/17.1/no-multilib/systemd (dev)
+[16] default/linux/amd64/17.1/systemd (stable)
+[17] default/linux/amd64/17.0 (dev)
+[18] default/linux/amd64/17.0/selinux (dev)
+[19] default/linux/amd64/17.0/hardened (dev)
+[20] default/linux/amd64/17.0/hardened/selinux (dev)
+[21] default/linux/amd64/17.0/desktop (dev)
+[22] default/linux/amd64/17.0/desktop/gnome (dev)
+[23] default/linux/amd64/17.0/desktop/gnome/systemd (dev)
+[24] default/linux/amd64/17.0/desktop/plasma (dev)
+[25] default/linux/amd64/17.0/desktop/plasma/systemd (dev)
+[26] default/linux/amd64/17.0/developer (dev)
+[27] default/linux/amd64/17.0/no-multilib (dev)
+[28] default/linux/amd64/17.0/no-multilib/hardened (dev)
+[29] default/linux/amd64/17.0/no-multilib/hardened/selinux (dev)
+[30] default/linux/amd64/17.0/systemd (dev)
+[31] default/linux/amd64/17.0/x32 (dev)
+[32] default/linux/amd64/17.0/musl (exp)
+[33] default/linux/amd64/17.0/musl/hardened (exp)
+[34] default/linux/amd64/17.0/musl/hardened/selinux (exp)
+[35] default/linux/amd64/17.0/uclibc (exp)
+[36] default/linux/amd64/17.0/uclibc/hardened (exp)
+&lt;/code>&lt;/pre>&lt;p>You can set a profile with&lt;/p>
+&lt;pre tabindex="0">&lt;code># eselect profile set 5 (setting the desktop profile, which pulls in desktop packages)
+&lt;/code>&lt;/pre>&lt;h1 id="setting-timezone">Setting timezone&lt;/h1>
+&lt;p>Now it&amp;rsquo;s time to set the timezone, list available timezones in &lt;code>/usr/share/zoneinfo&lt;/code>&lt;/p>
+&lt;pre tabindex="0">&lt;code># ls /usr/share/zoneinfo
+&lt;/code>&lt;/pre>&lt;p>Set your timezone by putting the name in &lt;code>/etc/timezone&lt;/code>.&lt;/p>
+&lt;pre tabindex="0">&lt;code># echo &amp;#34;US/Pacific&amp;#34; &amp;gt; /etc/timezone
+&lt;/code>&lt;/pre>&lt;p>Reconfigure timezone data now&lt;/p>
+&lt;pre tabindex="0">&lt;code>emerge --config sys-libs/timezone-data
+&lt;/code>&lt;/pre>&lt;h1 id="updating-world">Updating world&lt;/h1>
+&lt;p>The tarball is usually a couple days out of date, so you will need to update world.&lt;/p>
+&lt;pre tabindex="0">&lt;code># emerge -vuaDN world
+&lt;/code>&lt;/pre>&lt;h1 id="installing-your-favorite-editor">Installing your favorite editor&lt;/h1>
+&lt;p>At this point I install vim because that&amp;rsquo;s the editor I like to use.&lt;/p>
+&lt;pre tabindex="0">&lt;code># emerge vim
+&lt;/code>&lt;/pre>&lt;h1 id="setting-the-locale">Setting the locale&lt;/h1>
+&lt;p>Locales are the language, but also rules for your system, such as strings and date and time. These are case sensitive and must be typed correctly. You can find a list in &lt;code>/usr/share/i18n/SUPPORTED&lt;/code>&lt;/p>
+&lt;pre tabindex="0">&lt;code># vim /etc/locale.gen
+&lt;/code>&lt;/pre>&lt;p>Example &lt;code>/etc/locale.gen&lt;/code>&lt;/p>
+&lt;pre tabindex="0">&lt;code>en_US ISO-8859-1
+en_US.UTF-8 UTF-8
+C.UTF8 UTF-8
+&lt;/code>&lt;/pre>&lt;p>Then generate the locales&lt;/p>
+&lt;pre tabindex="0">&lt;code># locale-gen
+&lt;/code>&lt;/pre>&lt;p>Then set the default locale&lt;/p>
+&lt;pre tabindex="0">&lt;code># eselect locale list
+Available targets for the LANG variable:
+[1] C *
+[2] C.utf8
+[3] en_US
+[4] en_US.iso88591
+[5] en_US.utf8
+[6] POSIX
+[ ] (free form)
+# eselect locale set 5
+&lt;/code>&lt;/pre>&lt;p>Next update your environment&lt;/p>
+&lt;pre tabindex="0">&lt;code># env-update &amp;amp;&amp;amp; source /etc/profile &amp;amp;&amp;amp; export PS1=&amp;#34;(chroot) ${PS1}&amp;#34;
+&lt;/code>&lt;/pre>&lt;h1 id="kernel">Kernel&lt;/h1>
+&lt;p>You can either configure the kernel, or use a preconfigured one. I won&amp;rsquo;t go over configuring the kernel because that&amp;rsquo;s a more advanced thing, for now let&amp;rsquo;s use a preconfigured one.&lt;/p>
+&lt;pre tabindex="0">&lt;code># emerge sys-kernel/linux-firmware (install firmwares)
+# emerge sys-kernel/installkernel-gentoo
+# emerge sys-kernel/gentoo-kernel-bin (installs a prebuilt kernel, omit the -bin if you want portage to compile it)
+&lt;/code>&lt;/pre>&lt;h1 id="bootloader">Bootloader&lt;/h1>
+&lt;p>Install a bootloader, grub2 for example. You will need to make sure the correct &lt;code>GRUB_PLATFORMS&lt;/code> are selected.&lt;/p>
+&lt;pre tabindex="0">&lt;code># echo &amp;#39;GRUB_PLATFORMS=&amp;#34;efi-64&amp;#34;&amp;#39; &amp;gt;&amp;gt; /etc/portage/make.conf (build GRUB with x86_64 UEFI support only)
+# echo &amp;#39;GRUB_PLATFORMS=&amp;#34;efi-32&amp;#34;&amp;#39; &amp;gt;&amp;gt; /etc/portage/make.conf (build GRUB with i386 UEFI support only)
+# echo &amp;#39;GRUB_PLATFORMS=&amp;#34;pc&amp;#34;&amp;#39; &amp;gt;&amp;gt; /etc/portage/make.conf (build GRUB with legacy support only)
+# echo &amp;#39;GRUB_PLATFORMS=&amp;#34;pc efi-64&amp;#34;&amp;#39; &amp;gt;&amp;gt; /etc/portage/make.conf (build GRUB with x86_64 UEFI and legacy support)
+# echo &amp;#39;GRUB_PLATFORMS=&amp;#34;pc efi-64 efi-32&amp;#34;&amp;#39; &amp;gt;&amp;gt; /etc/portage/make.conf (build GRUB with i386 UEFI, x86_64 UEFI, and legacy support)
+&lt;/code>&lt;/pre>&lt;p>Install GRUB in legacy mode&lt;/p>
+&lt;pre tabindex="0">&lt;code># grub-install /dev/sda
+&lt;/code>&lt;/pre>&lt;p>Install GRUB in UEFI mode&lt;/p>
+&lt;pre tabindex="0">&lt;code># mount -o remount,rw /sys/firmware/efi/efivars
+# grub-install --target=x86_64-efi --efi-directory=/boot
+&lt;/code>&lt;/pre>&lt;p>Generate GRUB config&lt;/p>
+&lt;pre tabindex="0">&lt;code># grub-mkconfig -o /boot/grub/grub.cfg
+&lt;/code>&lt;/pre>&lt;h1 id="fstab">fstab&lt;/h1>
+&lt;p>The &lt;code>fstab&lt;/code> is the file that tells the computer how to mount each block device, I&amp;rsquo;m gonna configure it &lt;code>by-label&lt;/code> like so.&lt;/p>
+&lt;pre tabindex="0">&lt;code># vim /etc/fstab
+LABEL=boot /boot vfat defaults,noauto 0 2
+LABEL=linux / ext4 defaults 0 1
+LABEL=swap none swap defaults 0 0
+&lt;/code>&lt;/pre>&lt;h1 id="setting-hostname">Setting hostname&lt;/h1>
+&lt;p>Set the hostname with&lt;/p>
+&lt;pre tabindex="0">&lt;code># echo &amp;#39;hostname=&amp;#34;phosphor&amp;#34;&amp;#39; &amp;gt; /etc/conf.d/hostname
+&lt;/code>&lt;/pre>&lt;h1 id="configuring-networking">Configuring networking&lt;/h1>
+&lt;p>The easiest way to do this is using networkmanager&lt;/p>
+&lt;pre tabindex="0">&lt;code># emerge networkmanager
+# rc-update add NetworkManager default
+&lt;/code>&lt;/pre>&lt;p>Another way to configure the ethernet interface for example&lt;/p>
+&lt;pre tabindex="0">&lt;code># emerge dhcpcd
+# vim /etc/conf.d/net
+config_eth0=&amp;#34;dhcp&amp;#34;
+# ln -s net.lo net.eth0
+# rc-update add net.eth0 default
+&lt;/code>&lt;/pre>&lt;h1 id="setting-root-password">Setting root password&lt;/h1>
+&lt;p>Set your root password like so&lt;/p>
+&lt;pre tabindex="0">&lt;code># passwd root
+&lt;/code>&lt;/pre>&lt;h1 id="finishing-up">Finishing up&lt;/h1>
+&lt;p>Now that Gentoo is installed you can exit the chroot environment&lt;/p>
+&lt;pre tabindex="0">&lt;code># exit
+&lt;/code>&lt;/pre>&lt;p>Reboot&lt;/p>
+&lt;pre tabindex="0">&lt;code># reboot
+&lt;/code>&lt;/pre>&lt;p>If things turn out well you are in a minimal Gentoo system, I won&amp;rsquo;t cover installing the desktop environment yet and post configuration just yet, but I&amp;rsquo;ll add that to the post later on.&lt;/p></description></item><item><title>Using Wayland daily on KDE Plasma, My Experience</title><link>https://alicela1n.github.io/post/2021-07-14-using-wayland-daily-on-plasma/</link><pubDate>Wed, 14 Jul 2021 09:30:50 -0800</pubDate><guid>https://alicela1n.github.io/post/2021-07-14-using-wayland-daily-on-plasma/</guid><description>&lt;h1 id="introduction">&lt;strong>Introduction&lt;/strong>&lt;/h1>
+&lt;p>Ever since KDE Plasma 5.21 it&amp;rsquo;s been fully usable under Wayland. To the point where I never need to boot back into Xorg anymore!
+KDE Plasma is my favorite desktop environment, atm. Plasma for a long time was the one thing holding me back from using Wayland. It wasn&amp;rsquo;t that stable, and the experience on Xorg was overall far less buggy.
+Xorg is slowly going away, Wayland is the future. While I don&amp;rsquo;t think this will happen very fast, I with more and more desktop environments adopting Wayland support, there will be less and less reason to use Xorg.
+Since the experience using Wayland vs Xorg is almost indistinguishable for the end user, more distros are adopting a Wayland session as default, ones like Fedora, and Ubuntu. For GNOME this has been fine, however
+using Plasma on Wayland wasn&amp;rsquo;t very good experience. There were tons of bugs and issues. However, since 5.21 that&amp;rsquo;s changed, and you can use Plasma on Wayland with little issues.&lt;/p>
+&lt;h1 id="my-experience">&lt;strong>My Experience&lt;/strong>&lt;/h1>
+&lt;p>Initially, I had some bugs with applications like OBS. OBS only supports Wayland through pipewire for screen and window capture.
+With pipewire, Wayland has been very usable. I recommend using Pipewire if you are on Wayland.
+Another problem is the mouse goes out the window when you capture it using an application like QEMU, which is annoying, you need to use a USB tablet as the mouse device on QEMU.&lt;/p>
+&lt;p>Wayland does a lot of things such as handle DPI scaling, graphics tablets, touchpads and touchscreens, much better than Xorg. During Plasma 5.21 I switched between Xorg and Wayland but mostly stuck with Xorg, since Plasma 5.22 I started using Wayland pretty much exclusively. I&amp;rsquo;m at a point where if an application doesn&amp;rsquo;t work on Wayland, I simply don&amp;rsquo;t use that application anymore, although I haven&amp;rsquo;t really run into that.&lt;/p>
+&lt;h1 id="wayland-advantages">Wayland advantages&lt;/h1>
+&lt;ul>
+&lt;li>Better support for things like graphics tablets, touch screens, and touchpads&lt;/li>
+&lt;li>Better DPI scaling&lt;/li>
+&lt;li>More modern display server, fixes problems that Xorg had a difficult time fixing&lt;/li>
+&lt;li>Wayland is a lot less complex making it simpler to maintain&lt;/li>
+&lt;li>Possibly more that I don&amp;rsquo;t know about off the top of my head&lt;/li>
+&lt;/ul>
+&lt;h1 id="disadvantages-from-my-experience">Disadvantages (from my experience)&lt;/h1>
+&lt;ul>
+&lt;li>Can&amp;rsquo;t forward Wayland windows over SSH (annoying but not a deal breaker for me)&lt;/li>
+&lt;li>Bugs in certain applications&lt;/li>
+&lt;li>Some applications don&amp;rsquo;t work at all&lt;/li>
+&lt;li>Less stable in some cases&lt;/li>
+&lt;/ul>
+&lt;h1 id="conclusion">&lt;strong>Conclusion&lt;/strong>&lt;/h1>
+&lt;p>Wayland lately has been very stable with little issues. Almost all of my applications have been working well, and there&amp;rsquo;s been few issues. I embrace modern technologies because it&amp;rsquo;s the future, and I like embracing the future. If you like to embrace the future too, you should use Wayland. You can help out by submitting bug reports, or even fixing bugs in software. As time goes on more and more of Xorg will be replaced with Wayland.&lt;/p></description></item><item><title>Case Study: Updating old install of Arch Linux</title><link>https://alicela1n.github.io/post/2021-07-05-updating-old-archlinux-install/</link><pubDate>Mon, 05 Jul 2021 15:12:50 -0800</pubDate><guid>https://alicela1n.github.io/post/2021-07-05-updating-old-archlinux-install/</guid><description>&lt;p>&lt;img src="./assets/upgrading-old-arch-install/Screenshot_20210702_165829.png"
+alt="screenshot prior upgrade"/>&lt;/p>
+&lt;h1 id="introduction">Introduction&lt;/h1>
+&lt;p>So there&amp;rsquo;s this myth that if Arch Linux gets too old then you can&amp;rsquo;t update the install anymore. I don&amp;rsquo;t exactly know what classifies as &amp;ldquo;too old&amp;rdquo; since I&amp;rsquo;ve managed to update installs up to 2 years out of date. However, I decided to go a step further and update an install that&amp;rsquo;s 5 years out of date.&lt;/p>
+&lt;h1 id="problems">Problems&lt;/h1>
+&lt;p>The best way to avoid running into serious problems is to read the &lt;a href="https://archlinux.org/news/"target="_blank" rel="noopener noreferrer">Arch Linux news letter&lt;/a>
+as it typically tells you how to fix any problems you may run into. So it&amp;rsquo;s not as straight forward as running &lt;code>pacman -Syu&lt;/code>, I tried that and ran into keyring problems. What I tried doing was installing the new &lt;code>archlinux-keyring&lt;/code> before doing anything else. However, &lt;a href="https://archlinux.org/news/now-using-zstandard-instead-of-xz-for-package-compression/"target="_blank" rel="noopener noreferrer">pacman couldn&amp;rsquo;t recognize the new zstd format of packages&lt;/a>
+since libarchive added support in 2018. I had to use a &lt;a href="https://pkgbuild.com/~eschwartz/repo/x86_64-extracted/"target="_blank" rel="noopener noreferrer">statically linked pacman binary&lt;/a>
+.
+&lt;img src="./assets/upgrading-old-arch-install/Screenshot_20210702_195325.png"
+alt="screenshot of pacman error"/>&lt;/p>
+&lt;h1 id="how-i-got-arch-linux-to-upgrade">How I got Arch Linux to upgrade&lt;/h1>
+&lt;p>So after downloading a statically linked pacman binary, I was able to run:&lt;/p>
+&lt;pre tabindex="0">&lt;code># ./pacman-static -Sy archlinux-keyring
+&lt;/code>&lt;/pre>&lt;p>Which installed the new keyring, and after that I could run&lt;/p>
+&lt;pre tabindex="0">&lt;code># ./pacman-static -Su --overwrite=&amp;#34;*&amp;#34;
+&lt;/code>&lt;/pre>&lt;p>&lt;code>--overwrite&lt;/code> is needed to overwrite any conflicting files by force.
+After that it went smoothly. I had to force restart the VM because it was unable to shut down and restart properly.
+&lt;img src="./assets/upgrading-old-arch-install/Screenshot_20210702_202652.png"
+alt="screenshot post upgrade"/>&lt;/p>
+&lt;h1 id="conclusion">Conclusion&lt;/h1>
+&lt;p>So while it&amp;rsquo;s true that you will run into problems upgrading an old install of Arch Linux, it&amp;rsquo;s a myth that these problems are unfixable and you have to reinstall if your install gets too old. As I&amp;rsquo;ve demonstrated you can fix these problems if you reinstall the keyring (which you usually have to do if your install gets too out of date anyway) and use a static pacman binary to work around the error about unsupported package format. So don&amp;rsquo;t stress too much about updating your Arch Linux install, you should be fine as long as you read the news letter and are aware of possible problems you may run into, usually they&amp;rsquo;re very fixable.&lt;/p></description></item><item><title>How to switch from Windows to Linux</title><link>https://alicela1n.github.io/post/2021-06-15-linux-guide-for-windows-users/</link><pubDate>Tue, 15 Jun 2021 15:12:50 -0800</pubDate><guid>https://alicela1n.github.io/post/2021-06-15-linux-guide-for-windows-users/</guid><description>&lt;h1 id="warning">Warning&lt;/h1>
+&lt;p>&lt;strong>Before getting into this it is assumed all your important data is backed up somewhere, whether that&amp;rsquo;s a cloud service, or external device, this WILL wipe all your data, and I&amp;rsquo;m not responsible for anything that goes wrong!&lt;/strong>&lt;/p>
+&lt;h1 id="introduction">Introduction&lt;/h1>
+&lt;p>&lt;del>Microsoft announced their new Windows 11&lt;/del>, (correction: the new Windows 11 was &lt;strong>leaked&lt;/strong>, not officially announced) I hate it. This inspired me to write a blog post to help Windows users switch over from Windows 10 to Linux, I&amp;rsquo;m gonna be focusing on Kubuntu.&lt;/p>
+&lt;h1 id="why-kubuntu">Why Kubuntu?&lt;/h1>
+&lt;ul>
+&lt;li>The user interface, KDE Plasma, is very good for people who are familiar with the Windows user interface&lt;/li>
+&lt;li>Ubuntu supports secure boot out of the box so you don&amp;rsquo;t have to disable anything to get Kubuntu to install&lt;/li>
+&lt;li>Being LTS, it&amp;rsquo;s extremely stable and reliable, there&amp;rsquo;s a predictable 2 year release schedule&lt;/li>
+&lt;li>You have access to newer programs using snaps and flatpaks&lt;/li>
+&lt;li>Ubuntu being one of the most popular Linux distros, is supported extremely well both by software and hardware&lt;/li>
+&lt;/ul>
+&lt;h1 id="getting-started">Getting started!&lt;/h1>
+&lt;p>You will first need to go to the &lt;a href="https://kubuntu.org/"target="_blank" rel="noopener noreferrer">Kubuntu website&lt;/a>
+and &lt;a href="https://kubuntu.org/getkubuntu/"target="_blank" rel="noopener noreferrer">download&lt;/a>
+the &lt;a href="https://cdimage.ubuntu.com/kubuntu/releases/20.04.2/release/kubuntu-20.04.2.0-desktop-amd64.iso"target="_blank" rel="noopener noreferrer">latest LTS&lt;/a>
+, yes I said LTS, I don&amp;rsquo;t recommend non LTS releases of Ubuntu due to them having stability issues, these releases typically aren&amp;rsquo;t tested for stability and might contain bugs, security issues, or other problems.&lt;/p>
+&lt;h1 id="creating-the-installation-usb">Creating the installation USB&lt;/h1>
+&lt;p>Since Ubuntu has a &lt;a href="https://ubuntu.com/tutorials/create-a-usb-stick-on-windows"target="_blank" rel="noopener noreferrer">great guide&lt;/a>
+to do this, I won&amp;rsquo;t go over it, I recommend following their guide &lt;a href="https://ubuntu.com/tutorials/create-a-usb-stick-on-windows"target="_blank" rel="noopener noreferrer">here&lt;/a>
+, just substitute the Ubuntu iso for the Kubuntu iso.&lt;/p>
+&lt;h1 id="booting-up-and-installation">Booting up and installation&lt;/h1>
+&lt;p>Since this step is specific to your hardware, you&amp;rsquo;ll have to look up how to enter the boot menu so you can boot from USB, some common key configurations are ESC, F2,F 8, F11, F12, Delete, and Enter. You&amp;rsquo;ll have to look up how to do this.&lt;/p>
+&lt;p>Once booted you will see a screen like this.
+&lt;img src="./assets/linux-for-windows-users/Screenshot_20210615_153619.png"
+alt="Kubuntu installation screen"/>&lt;/p>
+&lt;p>Select the &lt;code>Install Kubuntu&lt;/code> button. Selecting your keyboard layout and connecting to the network should be fairly straight forward.
+&lt;img src="./assets/linux-for-windows-users/Screenshot_20210615_155723.png"
+alt="Kubuntu installation options"/>&lt;/p>
+&lt;p>Once you are here, you should select the &lt;code>Normal installation&lt;/code> as it has tons of useful applications, such as libreoffice, you should also select &lt;code>Download updates while installing Kubuntu&lt;/code>, and &lt;code>Install third-party software for graphics and Wi-Fi hardware and additional media formats&lt;/code> it will save tons of time.&lt;/p>
+&lt;p>Next you will need to setup your partitions, using &lt;code>Guided - use entire disk and set up encrypted LVM&lt;/code> is recommended, but not required, as that will keep your data secure. However, it is recommended to set a strong password if you decide on this! However, I won&amp;rsquo;t be using encrypted LVM because this is a virtual machine, so I will select &lt;code>Guided - use entire disk&lt;/code>.
+&lt;img src="./assets/linux-for-windows-users/Screenshot_20210615_160332.png"
+alt="Partition setup"/>&lt;/p>
+&lt;p>After clicking on &lt;code>Install Now&lt;/code> it will start installing the system, it will ask you to select a time zone, which is straight forward. Next it will ask you to setup a user name and password, and set a computer name.
+&lt;img src="./assets/linux-for-windows-users/Screenshot_20210615_160612.png"
+alt="Account setup"/>&lt;/p>
+&lt;p>The installation will take a few minutes to complete. Once done you will need to reboot and you should be at the Kubuntu desktop.
+&lt;img src="./assets/linux-for-windows-users/Screenshot_20210615_173103.png"
+alt="Desktop"/>&lt;/p>
+&lt;h1 id="configuration">Configuration&lt;/h1>
+&lt;p>You can make Kubuntu more like Windows 7 and up by setting the bottom panel to &lt;code>Icon-Only Task Manager&lt;/code> by right clicking the middle of the bottom panel and clicking on &lt;code>Show Alternatives&lt;/code>.
+&lt;img src="./assets/linux-for-windows-users/Screenshot_20210615_173450.png"
+alt="Changing the panel"/>&lt;/p>
+&lt;p>You can also make the panel bigger by right clicking, clicking on &lt;code>Edit Panel...&lt;/code> and adjusting the &lt;code>Height&lt;/code>.
+Getting used to the Kubuntu desktop should be a lot like getting used to a new version of Windows. There&amp;rsquo;s tons of configuration options to play with, however I advise excercising caution if you are unsure what you are doing.&lt;/p>
+&lt;h1 id="installing-applications">Installing applications&lt;/h1>
+&lt;p>You can install applications by going into &lt;code>Discover&lt;/code>, and &lt;code>Applications&lt;/code>, and you should see tons of applications that you can install. Many proprietary applications are distributed in &lt;code>.deb&lt;/code>, which can be installed either from command line &lt;code>sudo apt install ./application.deb&lt;/code>, or by right clicking the &lt;code>.deb&lt;/code> file and clicking &lt;code>Open with QApt Package Installer&lt;/code>.
+&lt;img src="./assets/linux-for-windows-users/Screenshot_20210615_175223.png"
+alt="Discover"/>&lt;/p>
+&lt;p>If you want an easy way to discover and install new applications, you can check out &lt;a href="https://www.flatpak.org/"target="_blank" rel="noopener noreferrer">flatpak&lt;/a>
+.&lt;/p>
+&lt;h1 id="installing-wine">Installing wine&lt;/h1>
+&lt;p>First go to &lt;a href="https://www.winehq.org"target="_blank" rel="noopener noreferrer">winehq.org&lt;/a>
+, and click download, scroll down to Ubuntu, and click it. Here&amp;rsquo;s a full &lt;a href="https://wiki.winehq.org/Ubuntu"target="_blank" rel="noopener noreferrer">link&lt;/a>
+.&lt;/p>
+&lt;p>Now open up &lt;code>Konsole&lt;/code>, and follow the wiki, I&amp;rsquo;ll give a run down of the commands here:&lt;/p>
+&lt;pre tabindex="0">&lt;code>$ sudo dpkg --add-architecture i386
+$ wget -nc https://dl.winehq.org/wine-builds/winehq.key
+$ sudo apt-key add winehq.key
+$ sudo apt-add-repository &amp;#39;deb https://dl.winehq.org/wine-builds/ubuntu focal main&amp;#39;
+$ sudo apt update
+$ sudo apt install --install-recommends winehq-stable
+&lt;/code>&lt;/pre>&lt;p>Once done with that, you should be able to double click and run executables like they are native, you should also be able to install Windows applications, and run them like they are native applications. &lt;strong>Be aware not all will work!&lt;/strong>&lt;/p>
+&lt;h1 id="wrapping-up">Wrapping up&lt;/h1>
+&lt;p>Hopefully by now you are setup with Kubuntu on your system. I recommend checking out &lt;a href="https://ubuntu.com/tutorials/command-line-for-beginners"target="_blank" rel="noopener noreferrer">command line for beginners&lt;/a>
+by Canonical. Learning how to use the command line will greatly help you in your Linux journey, although it&amp;rsquo;s not required anymore.&lt;/p></description></item></channel></rss>
