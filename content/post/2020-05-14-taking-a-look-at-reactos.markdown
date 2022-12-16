@@ -2,7 +2,6 @@
 layout:	post
 title: "Taking a look at ReactOS, a real open source Windows XP replacement?"
 date:  2020-05-14 11:16:30 -0800
-categories: misc
 ---
 # **Introduction**
 I got bored and decided to check out ReactOS, an open source alternative to Windows. It is the effort of a team who did some clean room reverse engineering of Windows and [wrote their code from scratch](https://reactos.org/wiki/ReactOS_FAQ). 

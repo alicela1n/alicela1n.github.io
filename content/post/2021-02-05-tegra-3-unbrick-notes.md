@@ -2,7 +2,6 @@
 layout:	post
 title: "Tegra 3 unbricking notes"
 date:  2021-02-05 15:09:34 -0800
-categories: misc
 ---
 
 This is just a quick little post to keep notes for how I unbricked my ASUS MemoPad ME301T.

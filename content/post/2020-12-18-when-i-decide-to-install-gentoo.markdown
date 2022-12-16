@@ -2,7 +2,6 @@
 layout:	post
 title: "I decided to install Gentoo"
 date:  2020-12-20 12:15:00 -0800
-categories: linux
 ---
 
 I rarely if ever update this blog, maybe once every few months. Anyways I might one day find the motivation to get back into blogging, who knows these days. Anyways I decided to write this post because I'm using Gentoo now, a source based Linux distro.

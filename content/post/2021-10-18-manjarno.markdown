@@ -2,7 +2,6 @@
 layout: post
 title: "Why I don't recommend Manjaro Linux"
 date:  2021-10-18 19:16:50 -0800
-categories: linux
 ---
 
 # **Introduction**

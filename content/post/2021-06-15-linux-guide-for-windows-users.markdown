@@ -2,7 +2,6 @@
 layout:	post
 title: "How to switch from Windows to Linux"
 date:  2021-06-15 15:12:50 -0800
-categories: linux
 ---
 
 # Warning

@@ -1,59 +1,74 @@
-baseURL = 'https://alicela1n.github.io/'
-languageCode = 'en-us'
-title = 'Alices Digital Notebook'
-theme = 'cayman-hugo-theme'
-DefaultContentLanguage = "en"
-enableInlineShortcodes = true
+baseURL = "https://alicela1n.github.io"
+title = "Alice's Digital Notebook"
+theme = "hugo-notepadium"
+copyright = "©2022 alicela1n"
+
+languageCode = "en"  # for the RSS generation
+defaultContentLanguage = "en"
+
+hasCJKLanguage = true
+
+enableRobotsTXT = true
+
+# Enable relativeURLs if your site hosted on GitHub.io
+relativeURLs = true
+
+# Enable Disqus
+#disqusShortname = "XXX"
+
+# Google Analytics
+#googleAnalytics = "UA-123-45"
+
+ignoreErrors = ["error-remote-getjson"]
+
+[markup.highlight]
+codeFences = true
+noClasses = false
+
+[markup.goldmark.renderer]
+unsafe = true  # enable raw HTML in Markdown
 
 [params]
-  # Header text, can be markdown
-  project_name = "Alice's Digital Notebook"
-  project_tagline = "A little blog site."
+style = "auto"  # default: auto. light: light theme, dark: dark theme, auto: based on system.
+dateFormat = "Jan 02, 2006"  # if unset, default is "2006-01-02"
+readingTime = false  # show reading time after article date
+logo = ""
+slogan = "100% JavaScript-free"
+#license = "<a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/><img alt=Creative Commons License style=border-width:0 src=https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png /></a><br />This work is licensed under a <a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>."
+ipv6ready = true
 
-  # Date format for post list and single pages
-  # For more date formats see https://gohugo.io/functions/format/
-  dateFormat = "2006-01-02"
+[params.assets]
+css = ["css/fonts.css"]
 
-  # Footer text, can be markdown
-  footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cayman](https://github.com/zwbetz-gh/cayman-hugo-theme)."
+[params.comments]
+enable = false  # En/Disable comments globally, default: false. You can always enable comments on per page.
 
-  # If true, the CSS/JS for Katex math typesetting are enabled
-  katex = true
+[params.share]
+enable = false  # En/Disable share globally, default: false. You can always enable share on per page.
+addThisId = ""
+inlineToolId = ""
 
-  # Breakpoints
-  large_breakpoint = "64em"
-  medium_breakpoint = "42em"
+[params.math]
+enable = false # load math globally, default: false. You can always enable math on per page.
+use = "katex"  # builtin: "katex", "mathjax".  default: "katex"
 
-  # Header colors
-  header_heading_color = "#fff"
-  header_background_color = "#7F00FF"
-  header_background_color_secondary = "#E100FF"
+[params.syntax]
+use = "none"  # builtin: "prismjs", "hljs". "none" means Chroma
+theme = "github"
+darkTheme = "dracula"
 
-  # Text colors
-  section_headings_color = "#159957"
-  body_text_color = "#606c71"
-  body_link_color = "#1e6bb8"
-  blockquote_text_color = "#819198"
+[params.profile]
+  enable = true
+  avatar = "https://avatars.githubusercontent.com/u/18562602?v=4"
+  name = "alicela1n"
+  bio = "Magical girl from another dimension."  # support markdown syntax
+  mastodon = "alicela1n:mastodon.online"  # https://mastodon.online/alicela1n
+  github = "alicela1n"  # https://github.com/alicela1n
 
-  # Code colors
-  code_background_color = "#f3f6fa"
-  code_text_color = "#567482"
+[params.nav]
+showCategories = true       # /categories/
+showTags = true             # /tags/
 
-  # Border colors
-  border_color = "#dce6f0"
-  table_border_color = "#e9ebec"
-  hr_border_color = "#eff0f1"
-
-[menu]
-  [[menu.nav]]
-    name = "Blog"
-    url = "/"
-    weight = 1
-  [[menu.nav]]
-    name = "About"
-    url = "/about/"
-    weight = 3
-  [[menu.nav]]
-    name = "RSS"
-    url = "/index.xml"
-    weight = 4
+[[params.nav.custom]]
+title = "About"
+url = "/about/"

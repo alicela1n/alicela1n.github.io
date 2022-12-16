@@ -2,7 +2,6 @@
 layout:	post
 title: "Running Mac OS X 10.2 in QEMU"
 date:  2020-03-21 13:14:30 -0800
-categories: apple
 ---
 # **Introduction**
 If you remember my old blog (it no longer exists btw), I had a post where I ran OS X 10.2 in QEMU. That got popular so I decided to rewrite it in my jekyll blog.

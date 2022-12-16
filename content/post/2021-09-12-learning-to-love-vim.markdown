@@ -2,7 +2,6 @@
 layout: post
 title: "Learning to Love Vim"
 date:  2021-09-12 17:45:50 -0800
-categories: workflow
 ---
 
 ![vim screenshot](/assets/vim/Screenshot_20210912_103544.png)

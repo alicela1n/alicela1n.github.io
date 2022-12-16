@@ -2,7 +2,6 @@
 layout:	post
 title: "How I triple booted my MacBook Pro"
 date:  2019-12-01 15:09:34 -0800
-categories: misc
 ---
 # **Introduction**
 ***Important: This has only been tested on the MacBook7,1 and MacBook Pro7,1 and I take no responsibility if something goes wrong!***

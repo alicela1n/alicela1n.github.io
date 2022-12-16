@@ -2,7 +2,6 @@
 layout:	post
 title: "Dumping SHSH and restoring 32bit iOS device"
 date:  2020-06-26 23:48:34 -0800
-categories: apple
 ---
 
 **!This was one of my quick written guides so if you have any improvements feel free to pull request them in!**

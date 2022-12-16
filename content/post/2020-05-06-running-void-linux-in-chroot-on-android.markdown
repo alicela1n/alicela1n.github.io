@@ -2,7 +2,6 @@
 layout:	post
 title: "Running Void Linux in Chroot on Android"
 date:  2020-05-06 12:16:30 -0800
-categories: linux
 ---
 # **Introduction**
 So I decided to mess around with my Fire 7 tablet and see if I could get a chroot environment of Linux. I used Void because it is quite lightweight and is perfect for testing!

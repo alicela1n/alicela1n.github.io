@@ -2,7 +2,6 @@
 layout:	post
 title: "Linux troubles again..."
 date:  2021-03-21 20:59:50 -0800
-categories: linux
 ---
 Linux troubles again, this time it's my audio that's not working. I didn't even realize it wasn't working for a while. Then it randomly hit me, no audio. Obviously, this is not enough to convince me to switch to Windows, as I'm not a fan of that operating system. However it is really annoying so I'm gonna have to try and fix it.
 

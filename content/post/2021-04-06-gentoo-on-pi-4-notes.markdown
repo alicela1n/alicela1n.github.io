@@ -2,7 +2,6 @@
 layout:	post
 title: "Installing Gentoo on Raspberry Pi 4"
 date:  2021-04-06 11:12:50 -0800
-categories: linux
 ---
 
 # Introduction

@@ -2,7 +2,6 @@
 layout: post
 title: "Installing Gentoo on the Pentium III"
 date:  2021-09-18 19:16:50 -0800
-categories: linux
 ---
 **This blog post targets EXPERIENCED Gentoo users only, I'm not helping you, and you are on your own! The future is uncertain, since this setup involves using old versions of some packages, and patches for others, it's uncertain whether or not it'll work tomorrow, or whether or not you'll be able to update this install in the future, so use at your own risk!**
 

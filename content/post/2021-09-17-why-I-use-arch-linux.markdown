@@ -2,7 +2,6 @@
 layout: post
 title: "Why I use Arch Linux"
 date:  2021-09-17 17:16:50 -0800
-categories: linux
 ---
 
 # **Introduction**

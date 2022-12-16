@@ -2,7 +2,6 @@
 layout:	post
 title: "One year of Linux on the 2010 MacBook Pro"
 date:  2019-12-24 15:09:34 -0800
-categories: linux
 ---
 # **Introduction**
 ![MBP running Arch](/assets/linux-on-mbp/IMG_20191223_184702.jpg)

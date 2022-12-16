@@ -2,7 +2,6 @@
 layout:	post
 title: "Case Study: Updating old install of Arch Linux"
 date:  2021-07-05 15:12:50 -0800
-categories: linux
 ---
 ![screenshot prior upgrade](/assets/upgrading-old-arch-install/Screenshot_20210702_165829.png)
 # Introduction

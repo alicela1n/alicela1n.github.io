@@ -2,7 +2,6 @@
 layout: post
 title: "Using Wayland daily on KDE Plasma, My Experience"
 date:  2021-07-14 09:30:50 -0800
-categories: linux
 ---
 
 # **Introduction**

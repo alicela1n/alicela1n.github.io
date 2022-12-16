@@ -2,7 +2,6 @@
 layout:	post
 title: "Using Kubuntu on my old MacBook Pro"
 date:  2021-04-11 11:23:50 -0800
-categories: linux
 ---
 I've used a 2010 MacBook Pro as my main laptop for a couple years, it's old, slow, and the last version of macOS to support it is 10.13.6. I replaced my MacBook a little over a year ago, so it hasn't been doing much lately.
 ![Picture](/assets/kubuntu-on-2010-mbp/IMG_3435.JPG)

@@ -2,7 +2,6 @@
 layout:	post
 title: "AARCH64 Arch Linux ARM on Raspberry Pi 4"
 date:  2020-04-10 12:16:30 -0800
-categories: linux
 ---
 # **Introduction**
 So you may know about the Raspberry Pi, a single board computer designed for embedded applications and DIY projects. You may also know that some people use them as desktop computers. However, one of the biggest problems when it comes to the Pi 4 is poor 64bit support. There is little to none in mainline and the downstream kernel is a bit old. We won't be fixing that problem but we will be running Arch Linux on the Pi 4 in 64bit mode, be aware that we are using an older kernel and it's not the latest mainline support. Also beware that I am not responsible for any mistakes you make.

@@ -2,7 +2,6 @@
 layout: post
 title: "Installing Gentoo"
 date:  2021-08-26 23:45:50 -0800
-categories: linux
 ---
 
 # **Introduction**

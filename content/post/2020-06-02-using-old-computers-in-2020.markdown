@@ -2,7 +2,6 @@
 layout:	post
 title: "Operating systems to use on old computers in 2020"
 date:  2020-06-02 16:15:34 -0800
-categories: misc
 ---
 # **Introduction**
 Here's a hypothetical situation, imagine you are using your computer and suddenly it stops powering on. No apparent reason, it just simply doesn't work anymore. However you do have a Pentium 4 computer sitting in your closet collecting dust. So being that it's your only functional computer, you plug it in and power it up. It runs an operating system from many years ago, Windows XP or an old Linux distro probably. Not very usable for 2020, so here are some more modern operating systems that are usable on old hardware.

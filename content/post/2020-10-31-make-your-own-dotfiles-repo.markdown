@@ -2,7 +2,6 @@
 layout:	post
 title: "Make your own dotfiles repo today"
 date:  2020-10-31 12:15:00 -0800
-categories: misc
 --- 
 
 # **Introduction**

@@ -2,7 +2,6 @@
 layout:	post
 title: "Need to use a different Linux distro? Just systemd-nspawn it!"
 date:  2020-08-22 08:00:34 -0800
-categories: linux
 ---
 
 I've been using Linux on my main computer for over a year and a half now, distro hopping because I always somehow find something wrong with the distro I'm using. Whether it be that I need to use a different version of the GCC compiler than the one in the distro's repos or something else. I've been trying Ubuntu, Debian, Arch, Gentoo, and some other ones like Fedora, Manjaro, openSUSE, Void Linux but none of them seemed to solve the problems I was having where I always need access to a package not in that distro's repositories, Arch is the best right for me right now because it has the AUR (Arch User Repository) which has most stuff but not everything. There's a few solutions I could think of but I hated all of them.

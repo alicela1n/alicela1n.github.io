@@ -2,7 +2,6 @@
 layout:	post
 title: "Restoring and updating iOS devices from Linux with iDeviceRestore"
 date:  2020-01-07 13:14:30 -0800
-categories: linux
 ---
 # **Introduction**
 You may be a Linux user, but you may have an iPhone as well. Occasionally there will be times when you'll need to restore and update your iPhone. You may think that because you're using Linux you are unable to restore or update your iOS device without a virtual machine or dualboot. Thankfully this is not true. Thanks to the developers behind libimobiledevice there are new tools to do the restore and update process directly from Linux. The tool is called idevicerestore! 

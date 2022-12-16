@@ -2,7 +2,6 @@
 layout: post
 title: "The Paradox Of Backwards Compatibility"
 date:  2022-01-03 15:55:34 -0800
-categories: misc
 ---
 
 # Backwards compatibility is a mess
